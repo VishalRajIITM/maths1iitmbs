@@ -36,19 +36,6 @@
   border-bottom: 1px solid hsla(224, 30%, 25%, 0.5);
 }
 
-.hero__eyebrow {
-  display: inline-block;
-  font-size: 0.75rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: #8ab4ff;
-  background: hsla(224, 70%, 55%, 0.12);
-  border: 1px solid hsla(224, 70%, 55%, 0.3);
-  border-radius: 999px;
-  padding: 6px 16px;
-  margin-bottom: 20px;
-}
-
 .hero__title {
   font-size: 2.25rem;
   font-weight: 700;
