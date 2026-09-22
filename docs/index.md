@@ -1,5 +1,3 @@
-# Home
-
 <div class="hero">
   <h1 class="hero__title">Course Resources</h1>
   <p class="hero__subtitle">Vishal Raj (Instructor)</p>
