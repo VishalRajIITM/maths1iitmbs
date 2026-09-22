@@ -42,40 +42,66 @@ pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs
 var url = '../week-1.pdf';
 var container = document.getElementById('pdf-container');
 var loadingMsg = document.getElementById('loading-msg');
+var pdfDoc = null;
+
+// CSS display size stays fixed; only the backing-store resolution scales
+// with devicePixelRatio (capped) so retina screens stay sharp without
+// rendering several times more pixels than can ever be shown.
+var displayScale = 1.5;
+var renderScale = displayScale * Math.min(window.devicePixelRatio || 1, 2);
+
+// Only rasterize a page once it's about to scroll into view, instead of
+// rendering the whole document up front.
+var observer = new IntersectionObserver(function(entries) {
+  entries.forEach(function(entry) {
+    if (entry.isIntersecting) {
+      renderPage(entry.target);
+      observer.unobserve(entry.target);
+    }
+  });
+}, { rootMargin: '400px 0px' });
+
+function renderPage(canvas) {
+  var pageNum = parseInt(canvas.dataset.pageNum, 10);
+  pdfDoc.getPage(pageNum).then(function(page) {
+    var viewport = page.getViewport({ scale: renderScale });
+    canvas.width = Math.floor(viewport.width);
+    canvas.height = Math.floor(viewport.height);
+    page.render({
+      canvasContext: canvas.getContext('2d'),
+      viewport: viewport
+    });
+  });
+}
 
 pdfjsLib.getDocument(url).promise.then(function(pdf) {
-  loadingMsg.style.display = 'none';
-  
-  for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
-    // Create canvas synchronously to maintain correct order
-    let canvas = document.createElement('canvas');
-    canvas.id = 'page-' + pageNum;
-    container.appendChild(canvas);
+  pdfDoc = pdf;
 
-    pdf.getPage(pageNum).then(function(page) {
-      // Render at a high base scale so it stays sharp when zooming in
-      let baseScale = 3.0;
-      let viewport = page.getViewport({ scale: baseScale });
-      
-      // Fix blurriness on high-resolution/retina displays
-      let outputScale = window.devicePixelRatio || 1;
-      
-      canvas.width = Math.floor(viewport.width * outputScale);
-      canvas.height = Math.floor(viewport.height * outputScale);
-      
-      // Maintain proper CSS display size and aspect ratio
-      canvas.style.width = "100%";
-      canvas.style.maxWidth = Math.floor(page.getViewport({scale: 1.5}).width) + "px";
-      canvas.style.height = "auto";
-      
-      let renderContext = {
-        canvasContext: canvas.getContext('2d'),
-        transform: [outputScale, 0, 0, outputScale, 0, 0],
-        viewport: viewport
-      };
-      page.render(renderContext);
-    });
+  var pagePromises = [];
+  for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+    pagePromises.push(pdf.getPage(pageNum));
   }
+
+  Promise.all(pagePromises).then(function(pages) {
+    loadingMsg.style.display = 'none';
+
+    pages.forEach(function(page, idx) {
+      let pageNum = idx + 1;
+      let viewport = page.getViewport({ scale: displayScale });
+
+      let canvas = document.createElement('canvas');
+      canvas.id = 'page-' + pageNum;
+      canvas.dataset.pageNum = pageNum;
+      canvas.style.width = "100%";
+      canvas.style.maxWidth = Math.floor(viewport.width) + "px";
+      canvas.style.aspectRatio = viewport.width + ' / ' + viewport.height;
+      canvas.style.height = "auto";
+      canvas.style.backgroundColor = "#fff";
+
+      container.appendChild(canvas);
+      observer.observe(canvas);
+    });
+  });
 }).catch(function(err) {
   loadingMsg.innerHTML = 'Error loading PDF. <a href="' + url + '">Download PDF</a>';
 });
