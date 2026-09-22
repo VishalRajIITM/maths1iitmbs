@@ -44,11 +44,13 @@ var container = document.getElementById('pdf-container');
 var loadingMsg = document.getElementById('loading-msg');
 var pdfDoc = null;
 
-// CSS display size stays fixed; only the backing-store resolution scales
-// with devicePixelRatio (capped) so retina screens stay sharp without
-// rendering several times more pixels than can ever be shown.
+// Render at extra resolution beyond the CSS display size so zooming in
+// (pinch or browser zoom) stays sharp instead of upscaling a 1:1 raster.
+// Lazy-loading (below) is what keeps this affordable: only a couple of
+// pages are ever rasterized at once, so this can afford real headroom.
 var displayScale = 1.5;
-var renderScale = displayScale * Math.min(window.devicePixelRatio || 1, 2);
+var zoomHeadroom = 2;
+var renderScale = displayScale * Math.min(Math.max(window.devicePixelRatio || 1, 1) * zoomHeadroom, 3);
 
 // Only rasterize a page once it's about to scroll into view, instead of
 // rendering the whole document up front.
