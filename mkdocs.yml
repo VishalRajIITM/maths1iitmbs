@@ -1,14 +1,30 @@
-site_name: Maths 1 | Notes
+site_name: Vishal Sir | Courses
 site_author: Sadaan Baksh
 
 theme:
   name: material
   palette:
+    scheme: slate
     primary: indigo
     accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
-  - Week 1: notes/week-1.md
-  - PYQS: pyqs/main.md
-  - Combined AQ+PA: pyqs/combined.md
+  - Mathematics for Data Science I:
+      - Overview: courses/maths-ds-1/index.md
+      - Week 1: courses/maths-ds-1/notes/week-1.md
+      - PYQS: courses/maths-ds-1/pyqs/main.md
+      - Combined AQ+PA: courses/maths-ds-1/pyqs/combined.md
+  - Algorithmic Thinking in Bioinformatics:
+      - Overview: courses/bioinformatics/index.md
