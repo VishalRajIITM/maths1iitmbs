@@ -1,0 +1,14 @@
+site_name: Maths 1 | Notes
+site_author: Sadaan Baksh
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+
+nav:
+  - Home: index.md
+  - Week 1: notes/week-1.md
+  - PYQS: pyqs/main.md
+  - Combined AQ+PA: pyqs/combined.md
