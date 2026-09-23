@@ -1,21 +1,18 @@
-# Quiz 1 Jan 25 {#quiz-1-jan-25 .unnumbered}
-
+# Quiz 1 Jan 25
 1.  The Cartesian product $A \times A$ has 9 elements. Two of the
     elements of the Cartesian product are $(1,3)$ and $(3,7)$. Find the
     sum of all the elements in set $A$.
 
-    \[Ans: 11\]
+    [Ans: 11]
 
 2.  Let $X$ be the set of natural numbers divisible by $100$, $Y$ be the
     set of natural numbers divisible by 25, and $Z$ be the set of
     natural numbers that are perfect squares. Now consider the following
-    Venn diagram. \[Note: A, B, C, D, E, F, and G are the regions marked
+    Venn diagram. [Note: A, B, C, D, E, F, and G are the regions marked
     in the following Venn diagram (a region in the Venn diagram can be
-    empty)\]
+    empty)]
 
-    ::: center
-    ![image](./jan25.1.png){width="25%"}
-    :::
+    ![image](./jan25.1.png){: style="width:25%"}
 
     Which of the following options is (are) correct?
 
@@ -27,7 +24,7 @@
 
     4.  25 is in $F$.
 
-    \[Ans: (a), (c)\]
+    [Ans: (a), (c)]
 
 3.  Which of the following option(s) is(are) true for relation,
     $R_{1}=\left\{(x, y): x, y \in \mathbb{R}, x^{2}+y^{2}=1\right\}$
@@ -40,7 +37,7 @@
 
     4.  $R_{1}$ is an equivalence relation.
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 4.  Which of the following relations is/are one-one function?
 
@@ -52,7 +49,7 @@
 
     4.  $R_{4}=\left\{(x, y) \mid x, y \in \mathbb{R}, y=x^{2}\right\}$
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 5.  Suppose that $L_{1}$ and $L_{2}$ are lines in the plane, with the
     $x$-intercepts of $L_{1}$ and $L_{2}$ are 2 and -1, respectively,
@@ -67,7 +64,7 @@
 
     4.  $(6,6)$
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 6.  If $\theta$ is the angle between $L_{1}$ and $L_{2}$, then
     $\tan \theta$ is equal to
@@ -80,14 +77,14 @@
 
     4.  $\dfrac{1}{4}$
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 7.  Consider two triangles $A B C$ and $P A B$ with coordinates
     $A(4,3), B(2,2)$, $C(8,3)$ and $P\left(t, t^{2}\right)$. The area of
     triangle $A B C$ is 4 times the area of the triangle $P A B$. What
     is the area of the triangle $A B C$?
 
-    \[Ans: 2\]
+    [Ans: 2]
 
 8.  Choose all the possible options for $P$.
 
@@ -99,7 +96,7 @@
 
     4.  $(-1, 1)$
 
-    \[Ans: (d)\]
+    [Ans: (d)]
 
 9.  Radhika has been tracking her monthly expenses and the corresponding
     number of outings she has with friends. Here's a table with two rows
@@ -110,13 +107,13 @@
     value of SSE (Sum of Squared Errors) in relation to the best-fit
     line?
 
-    ::: center
-         Amount spent      6   14   24   29   39   45
-      ------------------- --- ---- ---- ---- ---- ----
-       Number of outings   1   3    5    7    9    11
-    :::
 
-    \[Ans: 7\]
+    | Amount spent | 6 | 14 | 24 | 29 | 39 | 45 |
+    | --- | --- | --- | --- | --- | --- | --- |
+    | Number of outings | 1 | 3 | 5 | 7 | 9 | 11 |
+
+
+    [Ans: 7]
 
 10. Let $l$ be the equation of line which passes through the point
     $(1,9)$ and parallel to $y=7 x+6$. Then which of the following are
@@ -130,12 +127,12 @@
 
     4.  The $x$-intercept of $l$ is $\frac{1}{6}$.
 
-    \[Ans: (a), (c)\]
+    [Ans: (a), (c)]
 
 11. If $x+a$ is one of the factors of $p(x)=k x^{2}+k a x+5 x+15$, then
     find the value of $a$.
 
-    \[Ans: 3\]
+    [Ans: 3]
 
 12. Aman and Prakash want to solve a quadratic equation. Aman made a
     mistake in writing down the constant term and ended up in getting
@@ -152,7 +149,7 @@
 
     4.  2 and 5
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 13. Consider two polynomials $p(x)=x^{4}+3 x^{3}-9 x+8$ and
     $q(x)=\left(x^{2}+x\right)(x+3)$. Let $r(x)$ be the remainder
@@ -162,9 +159,7 @@
 
     Which of the following options is/are true?
 
-    ::: center
-    ![image](./jan25.2.png){width="25%"}
-    :::
+    ![image](./jan25.2.png){: style="width:25%"}
 
     1.  $r(x)=-16 x^{2}+4 x-8$
 
@@ -174,7 +169,7 @@
 
     4.  The $p(x)$ has at most 4 turning points.
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 14. Consider the three polynomials
 
@@ -199,7 +194,7 @@
     4.  If $t_{2}(x)$ is the obtained quotient when $p(x)$ divides
         $s(x)$, then the possible degree of $t_{2}(x)$ is 3.
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 15. Which of the following options is/are true?
 
@@ -211,10 +206,9 @@
 
     4.  $s(x) \rightarrow-\infty$ as $x \rightarrow \infty$.
 
-    \[Ans: (a), (b)\]
+    [Ans: (a), (b)]
 
-# Quiz 2 Jan 25 {#quiz-2-jan-25 .unnumbered}
-
+# Quiz 2 Jan 25
 1.  Choose the set of correct options.
 
     1.  The function $f: \mathbb{R} \to \mathbb{R}$ such that
@@ -227,14 +221,14 @@
     4.  If $f$ is an invertible function, then $f^{-1}$ is a one-one
         function.
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 2.  Let $f$ be a function whose domain is $[-5,7]$. If $g(x) = |2x + 5|$
     and $[a, b]$ denotes the largest interval which can be a domain for
     the composition function $(f \circ g)(x)$, then the value of $a + b$
     is
 
-    \[Ans: -5\]
+    [Ans: -5]
 
 3.  Consider a function $f(x)$ defined as $f(x) = \frac{2x+4}{3x}$. If
     $g(x)$ is the inverse function of $f(x)$, then which of the
@@ -248,12 +242,12 @@
 
     4.  $g'(7) = -\frac{1}{12}$
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 4.  If $4m - n = 0$ then find the values of
     $\frac{16^m}{2^n} + \frac{27^n}{9^{6m}}$.
 
-    \[Ans: 2\]
+    [Ans: 2]
 
 5.  If $b > 0$ and $4 \log_x b + 9\log_{b^{5}x} b = 1$, then the
     possible value(s) of $z$ is(are)
@@ -266,7 +260,7 @@
 
     4.  $6^5$
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 6.  Let functions $f(x) = \log(x^2)$, $g(x) = 2\log x$, and
     $h(x) = (\log x)^2$ respectively. Choose the set of correct options.
@@ -279,7 +273,7 @@
 
     4.  The range of $h(x)$ and $g(x)$ are equal.
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 7.  Choose the set of correct options.
 
@@ -291,7 +285,7 @@
 
     4.  If $0<b<1$ and $0<x<y$ then $\log_bx>\log_by$
 
-    \[Ans: (b),(d)\]
+    [Ans: (b),(d)]
 
 8.  Suppose three distinct persons A, B and C are standing on the X-axis
     of the XY-plane (as shown in the figure M1-1) and the distance
@@ -301,11 +295,9 @@
     $(\log_5(3^{x} - \frac{9}{4}), 0)$ respectively. What is the
     distance between C and B?
 
-    ::: center
-    ![image](./jan25.3.png){width="60%"}
-    :::
+    ![image](./jan25.3.png){: style="width:60%"}
 
-    \[Ans: 0.24 to 0.26\]
+    [Ans: 0.24 to 0.26]
 
 9.  The value of
     $\lim_{x \to 0} \frac{(1+x)^\frac{1}{2} - (1-x)^\frac{1}{2}}{x}$ is:
@@ -318,17 +310,17 @@
 
     4.  $5/3$
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 10. Find $\lim_{n \to \infty} a_n$ for the sequence $\{a_n\}$ such that
     $a_n = \frac{3^{n+2}-7n^3}{3^n+6n^3}$
 
-    \[Ans: 9\]
+    [Ans: 9]
 
 11. Find $\lim_{n \to \infty} a_n$ for the sequence $\{a_n\}$ such that
     $a_n = \frac{2n+5(-1)^n}{4n-3(-1)^n}$
 
-    \[Ans: 0.5\]
+    [Ans: 0.5]
 
 12. $f(x) = a \sin |x|+ be^{|x|}$ is differentiable at $x = 0$, if and
     only if
@@ -341,7 +333,7 @@
 
     4.  $b = 0$
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 13. Consider the function $f: \mathbb{R} \to \mathbb{R}$ defined by
     $f(x) = 
@@ -360,22 +352,21 @@
 
     4.  $f$ is not continuous at $x = 1$.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 14. Let $f$ be a differentiable function at $x = 2$. The tangent line to
     the curve represented by the function $f$ at the point $(2,6)$
     passes through the point $(6, -18)$. What will be the value of
     $f'(2)$?
 
-    \[Ans: -6\]
+    [Ans: -6]
 
 15. If $f(x) = g(x^2 + 7x) \times h(x^3+2x)$, $g'(0) = g(0) \neq 0$, and
     $h'(0) = h(0) \neq 0$, then find the value of $\frac{f'(0)}{f(0)}$
 
-    \[Ans: 9\]
+    [Ans: 9]
 
-# End Term Jan 25 {#end-term-jan-25 .unnumbered}
-
+# End Term Jan 25
 1.  Which of the following statements is (are) correct?
 
     1.  $y-10=-3(x-20)^{2}$ is an equation of a parabola whose vertex is
@@ -389,30 +380,30 @@
 
     4.  $x+5 y+9=0$ and $5 x+25 y+9=0$ are parallel to each other.
 
-    \[Ans: (b), (c), (d)\]
+    [Ans: (b), (c), (d)]
 
 2.  If $(a, b) \subset \mathbb{R}$ denotes the largest interval which
     can be a domain for the function
     $$f(x)=\log_{2}\left(1-\log_{2}\left(x^{2}-5 x+8\right)\right)$$
     then find the value of $a+b$.
 
-    \[Ans: 5\]
+    [Ans: 5]
 
 3.  Evaluate $$\lim_{x \rightarrow 0} \frac{1-\cos x}{\sin x}$$
 
-    \[Ans: 0\]
+    [Ans: 0]
 
 4.  Find $\lim_{n \rightarrow \infty} a_{n}$ for the sequence
     $\{a_{n}\}$ such that
     $$a_{n}=\frac{17 n^{3}+n^{2}-10 \sin(n)}{n^{3}+30 n}$$
 
-    \[Ans: 17\]
+    [Ans: 17]
 
 5.  Find $\lim_{n \rightarrow \infty} a_{n}$ for the sequence
     $\{a_{n}\}$ such that $$a_{n}=\frac{1}{5}+\frac{(-1)^{n}}{n^{3}}$$
     Enter your answer correctly to two decimal places.
 
-    \[Ans: 0.10 to 0.30\]
+    [Ans: 0.10 to 0.30]
 
 6.  Edwin plotted a graph on Desmos (an online graphing tool), which was
     continuous and differentiable at every point. Later he remembered
@@ -436,7 +427,7 @@
 
     4.  $n=-1, p=-1$
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 7.  Consider the function $f(x)=\cos x$. Let $L_{f}(x)$ be the linear
     approximation of the function at $x=\frac{1}{2}$. Is this statement
@@ -447,7 +438,7 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 8.  The function $f(x)=2 x^{3}-24 x$ has a
 
@@ -459,12 +450,12 @@
 
     4.  local minimum at $x=2$.
 
-    \[Ans: (a), (d)\]
+    [Ans: (a), (d)]
 
 9.  Find the value of $$\int_{0}^{\frac{\pi}{2}} f(x) dx$$ where
     $f(x)=\cos x$.
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 10. Is this statement True or False: $f(x)=\cos x$ has only finitely
     many critical points.
@@ -473,7 +464,7 @@
 
     2.  FALSE
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 11. Is this statement True or False: $f(x)=\cos x$ has local maxima at
     $x=0$.
@@ -482,15 +473,13 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 12. Suppose $G$ is a graph, as shown in the below figure. Let $V$ be the
     set of vertices of $G$, $V_{i}$ be the maximum independent set and
     $V_{c}$ be the minimum vertex cover. Which of the following is(are)
     true?
 
-    ::: center
-    :::
 
     1.  Cardinality of $V_{i}$ is 5.
 
@@ -500,12 +489,10 @@
 
     4.  Cardinality of $V_{c}$ is 3.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 13. Consider the graph given below.
 
-    ::: center
-    :::
 
     Which of the following options is(are) correct?
 
@@ -521,7 +508,7 @@
     4.  If we perform Depth First Search at node 0, then one of the
         possible orders in which the nodes will be visited is 76435012.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 14. Which of the following options is true?
 
@@ -537,7 +524,7 @@
         cost of the graph is equal to the cost of the minimum
         cost-spanning tree.
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 15. Suppose Nitya wishes to find the minimum cost spanning tree of the
     graph given below. While finding the minimum cost spanning tree she
@@ -545,9 +532,7 @@
     sure that the weight of the minimum cost spanning tree is 15 in the
     graph.
 
-    ::: center
-    ![image](./jan25.4.png){width="60%"}
-    :::
+    ![image](./jan25.4.png){: style="width:60%"}
 
     Which of the following are possible values for $x$ and $y$?
 
@@ -559,22 +544,20 @@
 
     4.  $x=1, y=6$
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 16. What is the minimum number of colors required to properly color the
     vertices of the given graph such that no two adjacent vertices share
     the same color?
 
-    \[Ans: 4\]
+    [Ans: 4]
 
-:::: center
-::: tcolorbox
-**2024**
-:::
-::::
 
-# Quiz 1 Sep 24 {#quiz-1-sep-24 .unnumbered}
+---
 
+## 2024
+
+# Quiz 1 Sep 24
 1.  Suppose $A$ is the set of odd positive integers less than or equal
     to $20$, and $B$ is the set of positive integers less than or equal
     to $30$ which are divisible by $5$. Consider the following relations
@@ -591,7 +574,7 @@
 
     4.  $R_2$ is reflexive.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 2.  Which of the following options is/are true?
 
@@ -608,7 +591,7 @@
 
     4.  A line with an undefined slope is parallel to the Y-axis.
 
-    \[Ans: (a), (c), (d)\]
+    [Ans: (a), (c), (d)]
 
 3.  In a college of 500 students, 285 took Mathematics, 195 took
     Statistics, 115 took English, 70 took Mathematics and Statistics, 45
@@ -616,7 +599,7 @@
     took all three courses. What is the total number of students who
     took none of these three subjects?
 
-    \[Ans: 60\]
+    [Ans: 60]
 
 4.  Consider a set $S = \{a \mid a \in \mathbb{N}, a \leq 18\}$. Let
     $R_1$ and $R_2$ are relations on $S \times S$ defined as
@@ -626,11 +609,11 @@
 
     1.  $R_1$
 
-        \[Ans: 10\]
+        [Ans: 10]
 
     2.  $R_1 \cap R_2$
 
-        \[Ans: 8\]
+        [Ans: 8]
 
 5.  You have been closely monitoring your bike's mileage recently. Here
     is a table showing two rows representing the amount paid for fuel
@@ -641,17 +624,17 @@
     equation is $y = 4x + 1$. What will be the value of SSE with respect
     to the best-fit line?
 
-    ::: center
-       Amount paid (in currency units)   Distance (in Km)
-      --------------------------------- ------------------
-                     80                         20
-                     60                         15
-                     60                         16
-                     100                        25
-                     58                         14
-    :::
 
-    \[Ans: 29\]
+    | Amount paid (in currency units) | Distance (in Km) |
+    | --- | --- |
+    | 80 | 20 |
+    | 60 | 15 |
+    | 60 | 16 |
+    | 100 | 25 |
+    | 58 | 14 |
+
+
+    [Ans: 29]
 
 6.  A bird is flying along the straight line $2y - 6x = 6$. After some
     time an aeroplane also follows the straight line path with a slope
@@ -659,7 +642,7 @@
     the point where the bird and aeroplane can collide. Then find the
     value of $\alpha + \beta$.
 
-    \[Ans: -9\]
+    [Ans: -9]
 
 7.  If $\alpha$ and $\beta$ are the roots of the equation
     $x^2 + 4x + 1 = 0$, then the equation whose roots are $\alpha^2$ and
@@ -673,7 +656,7 @@
 
     4.  $x^2 - 8x + 5 = 0$
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 8.  Consider the polynomials $p(x) = x^3 - 3x^2 + 100x - 1$ and
     $q(x) = x^3 + x + 5$. Which of the following statements are correct?
@@ -686,14 +669,12 @@
 
     4.  $\dfrac{1}{2}q(x) \to \infty$ as $x \to \infty$.
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 9.  Consider a polynomial $p(x) = 0.3x^3(x^2 - 1)(x - 2)^2(x - 3)$ and
     the following figures.
 
-    ::: center
-    ![image](./sep24.1.png){width="25%"}
-    :::
+    ![image](./sep24.1.png){: style="width:25%"}
 
     Which of the figures represents the polynomial $p(x)$?
 
@@ -705,21 +686,20 @@
 
     4.  Figure 4
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 10. Consider the polynomial $p(x) = -(x + 4)^8(x - 4)^3(x + 12)^5$.
     Answer the given subquestions.
 
     1.  What is the degree of $p(x)$?
 
-        \[Ans: 16\]
+        [Ans: 16]
 
     2.  Calculate the number of turning points $p(x)$ can have?
 
-        \[Ans: 3\]
+        [Ans: 3]
 
-# Quiz 2 Sep 24 {#quiz-2-sep-24 .unnumbered}
-
+# Quiz 2 Sep 24
 1.  **Use the following table for Questions 1 to 4**\
     Let $f(x)=\sqrt{x}$ and $g(x)=\sqrt{3-x}$.\
     \
@@ -743,7 +723,7 @@
 
     4.  $i)-d)-3)$
 
-    \[Ans: (d)\]
+    [Ans: (d)]
 
 3.  Choose the correct option from the following:
 
@@ -755,7 +735,7 @@
 
     4.  $ii)-d)-3)$
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 4.  Choose the correct option from the following:
 
@@ -767,7 +747,7 @@
 
     4.  $iii)-c)-2)$
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 5.  Choose the correct option from the following:
 
@@ -779,7 +759,7 @@
 
     4.  $iv)-b)-2)$
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 6.  If $f(x)=x^{2}$ and $h(x)=x-1$, then which of the following options
     is(are) correct?
@@ -792,7 +772,7 @@
 
     4.  $h \circ f$ is a one-one function.
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 7.  Consider the function $f(x)=|\log (x+1)|$. Choose the correct
     option(s) from the following.
@@ -805,24 +785,24 @@
 
     4.  $f(x)$ is a one-one function when $x \in(-1,1)$.
 
-    \[Ans: (a), (c)\]
+    [Ans: (a), (c)]
 
 8.  If $m^{\log _{3} 2}+2^{\log _{3} m}=8$, then what is the value of
     $m$?
 
-    \[Ans: 9\]
+    [Ans: 9]
 
 9.  Find $\lim _{n \rightarrow \infty} a_{n}$ for the sequence
     $\left\{a_{n}\right\}$ such that
     $a_{n}=\frac{n^{5}-3 n^{3}+\sin (n)}{2 n^{5}+\ln (n)+n^{2}}$
 
-    \[Ans: 0.5\]
+    [Ans: 0.5]
 
 10. Find $\lim _{n \rightarrow \infty} a_{n}$ for the sequence
     $\left\{a_{n}\right\}$ such that
     $a_{n}=\frac{e^{2 n}+n^{4}}{e^{3 n}+n^{5}}$
 
-    \[Ans: 0\]
+    [Ans: 0]
 
 11. Consider the following function:
     $f(x)= \begin{cases}\frac{\sin (x)}{x}, & x \neq 0 \\ 1, & x=0\end{cases}$
@@ -837,7 +817,7 @@
 
     4.  $f$ is differentiable at $x=0$ and $f^{\prime}(0)=1$.
 
-    \[Ans: (a), (c)\]
+    [Ans: (a), (c)]
 
 12. Let $f$ be a polynomial of degree 5, which is given by
     $f(x)=a_{5} x^{5}+a_{4} x^{4}+a_{3} x^{3}+a_{2} x^{2}+a_{1} x+a_{0}$
@@ -853,29 +833,26 @@
 
     4.  $a_{1}=f^{\prime}(1)$.
 
-    \[Ans: (a), (b), (c)\]
+    [Ans: (a), (b), (c)]
 
 13. If the function
     $f(x)=\begin{cases}A x-B & \text { if } x \leq-1 \\ 2 x^{2}+3 A x+B & \text { if }-1 \leq x \leq 1 \\ 4 & \text { if } x > 1 \end{cases}$
     is continuous for all $x \in \mathbb{R}$, then find the value of
     $6(A+B)$.
 
-    \[Ans: 3\]
+    [Ans: 3]
 
 14. Let $f$ be a differentiable function such that $f^{\prime}(9)=4$ and
     $f(9)=-14$. If $y=a x+b$ denotes the tangent of the function $f$ at
     $x=9$, then find the value of $a-b$.
 
-    \[Ans: 54\]
+    [Ans: 54]
 
-# End Term Sep 24 {#end-term-sep-24 .unnumbered}
-
+# End Term Sep 24
 1.  Devendra has three sons (Jatin, Rabi, and Hem). Rabi has one son
     named Rathi. Hem has two sons (Avi and Manish). This family tree has
     been shown in the figure below.
 
-    ::: center
-    :::
 
     Let us define a relation R as follows,
 
@@ -894,7 +871,7 @@
 
     4.  (Jatin, Devendra) $\in$ S but (Rathi, Devendra) $\notin$ S.
 
-    \[Ans: (b), (d)\]
+    [Ans: (b), (d)]
 
 2.  Consider the three polynomials
 
@@ -918,7 +895,7 @@
     4.  If $t2(x)$ is the obtained quotient when $p(x)$ divides $s(x)$,
         then the possible degree of $t2(x)$ is 2.
 
-    \[Ans: (d)\]
+    [Ans: (d)]
 
 3.  Which of the following option is true?
 
@@ -930,14 +907,14 @@
 
     4.  s(x) $\to \infty$ as x $\to \infty$.
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 4.  Find $\lim_{n \to \infty} a_n$ for the sequence $\{a_n\}$ such that
     $$\begin{align}
     a_n = \frac{11n^3 + 2n^2 - 1}{n^3 + 3n}
     \end{align}$$
 
-    \[Ans: 11\]
+    [Ans: 11]
 
 5.  Find $\lim_{n \to \infty} a_n$ for the sequence $\{a_n\}$ such that
     $$\begin{align}
@@ -946,7 +923,7 @@
 
     Enter your answer correctly to two decimal places.
 
-    \[Ans: 0.12 to 0.13\]
+    [Ans: 0.12 to 0.13]
 
 6.  Consider the function f: $\mathbb{R} \to \mathbb{R}$ defined by
     $$\begin{align}
@@ -967,18 +944,18 @@
 
     4.  f is not continuous at x = 1.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 7.  Suppose f is a real valued function defined on R. Let f(x+y) =
     f(x)f(y) for all x, y $\in$ R and f(1) = 7 and f'(0) = 2.
 
 8.  What is the value of f(0)?
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 9.  What is the value of f'(1)?
 
-    \[Ans: 14\]
+    [Ans: 14]
 
 10. Consider the function, $$\begin{align}
     f(x) = \frac{x^4}{4} + \frac{x^3}{3} - \frac{x^2}{2} -x
@@ -986,7 +963,7 @@
 
 11. Find the number of critical points of f(x).
 
-    \[Ans: 2\]
+    [Ans: 2]
 
 12. Which of the following option(s) is(are) correct?
 
@@ -998,24 +975,24 @@
 
     4.  The maximum value of the function is -11/12
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 13. Find the area of the region bounded by the function f(x) =
     3x$\sqrt{1 - x^2}$ and the lines x = 0, x = 1 and y = 0.
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 14. Consider the adjacency matrix of an undirected graph G:
 
-    ::: center
-    $\begin{pmatrix}
+    $$
+    \begin{pmatrix}
     0 & 1 & 0 & 1 & 0 \\
     1 & 0 & 1 & 0 & 1 \\
     0 & 1 & 0 & 1 & 1 \\
     1 & 0 & 1 & 0 & 1 \\
     0 & 1 & 1 & 1 & 0
-    \end{pmatrix}$
-    :::
+    \end{pmatrix}
+    $$
 
     Which of the following option is/are true?
 
@@ -1027,7 +1004,7 @@
 
     4.  Each vertex has degree 3.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 15. A company manufactures 10 chemicals x1, x2, x3, \.... x10. Certain
     pairs of these chemicals are incompatible and would cause explosions
@@ -1040,16 +1017,12 @@
     least number of compartments into which the warehouse should be
     partitioned?
 
-    ::: center
-    ![image](./sep24.3.png){width="32%"}
-    :::
+    ![image](./sep24.3.png){: style="width:32%"}
 
-    \[Ans: 3\]
+    [Ans: 3]
 
 16. Consider the following graph G.
 
-    ::: center
-    :::
 
     Which of the following is(are) not spanning tree of G?
 
@@ -1058,15 +1031,13 @@
     3.  
     4.  
 
-    \[Ans: (a), (c)\]
+    [Ans: (a), (c)]
 
 17. A directed graph G is shown below. Suppose we are trying to perform
     an algorithm to find the shortest path from vertex v0 to v4. Which
     of the following statements is (are) correct?
 
-    ::: center
-    ![image](./sep24.2.png){width="40%"}
-    :::
+    ![image](./sep24.2.png){: style="width:40%"}
 
     1.  Dijkstra's algorithm can be used to find the shortest path from
         v0 to v4.
@@ -1080,19 +1051,16 @@
         from v0 to v4 because there is a negative cycle in the given
         graph.
 
-    \[Ans: (d)\]
+    [Ans: (d)]
 
 18. What is the weight of a minimum cost spanning tree of the given
     graph?
 
-    ::: center
-    ![image](./sep24.4.png){width="60%"}
-    :::
+    ![image](./sep24.4.png){: style="width:60%"}
 
-    \[Ans: 23\]
+    [Ans: 23]
 
-# Quiz 1 May 24 {#quiz-1-may-24 .unnumbered}
-
+# Quiz 1 May 24
 1.  Suppose A is the set of even positive integers less than or equal to
     20 and B is the set of positive integers less than 20 which are
     divisible by 6. Consider the following relations from A to B.
@@ -1103,11 +1071,11 @@
 
 2.  What is the cardinality of $R_1 \cap R_2$?
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 3.  What is the cardinality of $R_1$?
 
-    \[Ans: 9\]
+    [Ans: 9]
 
 4.  Which of the following statements are correct?
 
@@ -1119,7 +1087,7 @@
 
     4.  $(2,18)$ is an element in $R_2$.
 
-    \[Ans: (a), (c), (d)\]
+    [Ans: (a), (c), (d)]
 
 5.  A company opened recruitment for the post of data analyst. 500
     candidates have applied for the post. 285 candidates are proficient
@@ -1131,7 +1099,7 @@
     Find the number of candidates who are proficient in exactly one of
     the three programming languages.
 
-    \[Ans: 325\]
+    [Ans: 325]
 
 6.  Suppose that $P_1$ and $P_2$ are two different points in a Cartesian
     coordinate system, with $P_1$ located at $(3,-2)$ and $P_2$ at
@@ -1149,7 +1117,7 @@
 
     4.  $(\frac{-5}{2}, \frac{7}{2})$
 
-    \[Ans: (d)\]
+    [Ans: (d)]
 
 7.  If the $x$-intercept of the line $L_1$ is 1 and $y$-intercept of the
     line $L_2$ is -1 and if $\theta$ is the angle between $L_1$ and
@@ -1163,7 +1131,7 @@
 
     4.  $\frac{4}{7}$
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 8.  Radhika has been tracking her monthly expenses and the corresponding
     number of outings she has with friends. Here's a table with two rows
@@ -1174,13 +1142,13 @@
     the value of SSE (Sum of Squared Errors) in relation to the best fit
     line?
 
-    ::: center
-         Amount spent      37   44   53   50   57   64
-      ------------------- ---- ---- ---- ---- ---- ----
-       Number of outings   5    7    9    8    10   12
-    :::
 
-    \[Ans: 23\]
+    | Amount spent | 37 | 44 | 53 | 50 | 57 | 64 |
+    | --- | --- | --- | --- | --- | --- | --- |
+    | Number of outings | 5 | 7 | 9 | 8 | 10 | 12 |
+
+
+    [Ans: 23]
 
 9.  Consider the parabola $y = x^2 + 4x + 12$. Which of the following
     option(s) are true?
@@ -1193,7 +1161,7 @@
 
     4.  The minimum value for the given equation is 8.
 
-    \[Ans: (b), (c), (d)\]
+    [Ans: (b), (c), (d)]
 
 10. Consider the quadratic equation $ax^2 + bx + c = 0$ where $a, b, c$
     are integers with $a \neq 0$. Which of the following option(s) are
@@ -1211,13 +1179,11 @@
     4.  If $b^2 - 4ac < 0$ and not a perfect square then there exists a
         rational root of the quadratic equation.
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 11. Consider the following polynomial $p(x)$ whose graph is given below:
 
-    ::: center
-    ![image](./may24.1.png){width="60%"}
-    :::
+    ![image](./may24.1.png){: style="width:60%"}
 
     1.  Multiplicity of -1 and 1 must be the same.
 
@@ -1227,7 +1193,7 @@
 
     4.  The number of turning points is 5
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 12. Consider the polynomials $p(x) = (2x - 1)(x-5)q(x)$ where the zeros
     of $p(x)$ with multiplicity 1 are $\frac{1}{2}, 5, 2, \frac{3}{5}$.
@@ -1241,10 +1207,9 @@
 
     4.  $q(x)$ does not have any real zeros.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
-# Quiz 2 May 24 {#quiz-2-may-24 .unnumbered}
-
+# Quiz 2 May 24
 1.  Which of the following statements is/are true about the function
     $f(x)=|x^{2}-4x+3|+17$?
 
@@ -1256,7 +1221,7 @@
 
     4.  The minimum value of $f$ is 17.
 
-    \[Ans: (d)\]
+    [Ans: (d)]
 
 2.  Which of the following statements is/are true about the function
     $f(x)=|x^{2}-4x+3|+17$?
@@ -1269,7 +1234,7 @@
 
     4.  The minimum value of $f$ is 17.
 
-    \[Ans: (d)\]
+    [Ans: (d)]
 
 3.  Find the domain of the inverse function of $y=x^{3}-1$.
 
@@ -1281,7 +1246,7 @@
 
     4.  $\mathbb{R} \backslash[1, \infty)$
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 4.  Choose the set of correct options.
 
@@ -1293,44 +1258,42 @@
 
     4.  $\log_{10}100$ is a rational number.
 
-    \[Ans: (c), (d)\]
+    [Ans: (c), (d)]
 
 5.  If $m^{\log_{3}2}+2^{\log_{3}m}=8$, then what is the value of $m$?
 
-    \[Ans: 9\]
+    [Ans: 9]
 
 6.  If $f(x)=\sqrt{9-x^{2}}$, then find out the value of
     $\sqrt{5} \times \lim_{x \rightarrow 2} \frac{f(x)-f(2)}{x-2}$.
 
-    \[Ans: -2\]
+    [Ans: -2]
 
 7.  Calculate the limit of the following function: $$f(x)= \begin{cases}
     x^{2}-2x+4 & x \geq 0 \\
     e^{x^{2}}+3 & x < 0
     \end{cases}$$ at $x=0$.
 
-    \[Ans: 4\]
+    [Ans: 4]
 
 8.  Calculate the limit of the following function:
     $$f(x)=\frac{x^{4}-3x^{3}+2}{x^{4}-5x^{3}+3x^{2}+1}$$ at $x=1$
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 9.  Find the limit of the following sequence: $$\{a_{n}\}$$ such that
     $$a_{n}=\frac{6+6 \cdot 2^{2}+6 \cdot 3^{2}+\ldots+6 \cdot n^{2}}{\sqrt{4n^{6}+5}}$$
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 10. Find the limit of the following sequence: $$\{a_{n}\}$$ such that
     $$a_{n}=\frac{100n^{2}-11}{100n^{3}+7}$$
 
-    \[Ans: 0\]
+    [Ans: 0]
 
 11. Consider the graphs given below:
 
-    ::: center
-    ![image](./may24.2.png){width="100%"}
-    :::
+    ![image](./may24.2.png){: style="width:100%"}
 
     Choose the set of correct options:
 
@@ -1346,7 +1309,7 @@
     4.  The derivative of the function corresponding to Curve 4 does not
         exist at any point.
 
-    \[Ans: (a), (b)\]
+    [Ans: (a), (b)]
 
 12. Consider the function: $$f(x)= \begin{cases}
     [x+1] & -3 \leq x < 0 \\
@@ -1365,7 +1328,7 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 13. Is the statement True or False: The function $f(x)$ is continuous at
     $x=0$.
@@ -1374,12 +1337,12 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 14. Find the total number of points in $[-3,3]$ at which $f(x)$ is not
     continuous.
 
-    \[Ans: 5\]
+    [Ans: 5]
 
 15. Consider the function: $$f(x)=4x^{5}+x^{2}|x+1|+x+5$$
 
@@ -1391,7 +1354,7 @@
 
     2.  FALSE
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 16. Is the statement True or False: The function $|x+1|f(x)$ is
     continuous at $x=-1$.
@@ -1400,7 +1363,7 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 17. Is the statement True or False: The derivative of the function $f$
     at $x=0$ is 1.
@@ -1409,7 +1372,7 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 18. Is the statement True or False: Let $L(x)$ be the linear
     approximation to $f(x)=xe^{x}-1$ at the point $a$ such that
@@ -1420,16 +1383,15 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 19. Let $f$ be a differentiable function at $x=3$. The tangent line to
     the graph of the function $f$ at the point $(3,0)$, passes through
     the point $(5,4)$. What will be the value of $f^{\prime}(3)$?
 
-    \[Ans: 2\]
+    [Ans: 2]
 
-# End Term May 24 {#end-term-may-24 .unnumbered}
-
+# End Term May 24
 1.  Consider the following relations defined on the set of integers
 
     - $R_1 = \{(x, y)|x, y \in \mathbb{Z} \text{ and } 7 \text{ divides } (x - y)\}$
@@ -1446,7 +1408,7 @@
 
     4.  $R_2$ is transitive.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 2.  You have been closely monitoring your bike's mileage recently. Here
     is a table showing two rows representing the amount paid for fuel(in
@@ -1457,19 +1419,19 @@
     line is $y = 5x - 21$. What will be the value of SSE w.r.t the best
     fit line?
 
-    ::: center
-       Amount paid (in Rs)   80   50   60   100   48
-      --------------------- ---- ---- ---- ----- ----
-        Distance (in Km)     20   15   16   25    14
-    :::
 
-    \[Ans: 35\]
+    | Amount paid (in Rs) | 80 | 50 | 60 | 100 | 48 |
+    | --- | --- | --- | --- | --- | --- |
+    | Distance (in Km) | 20 | 15 | 16 | 25 | 14 |
+
+
+    [Ans: 35]
 
 3.  Points $A(4,3)$, $B(-3,-4)$ and $C(m, n)$ are collinear. If points
     $D(-1, 2)$, $E(5, -4)$ and $C$ are also collinear, the value of
     $\frac{4m+9n}{2m + 3n}$ is.
 
-    \[Ans: 2\]
+    [Ans: 2]
 
 4.  Which of the following statements is/are true about the function
     $f(x) = x^2+2x - 8$?
@@ -1482,7 +1444,7 @@
 
     4.  y-intercept of the given parabola is $-8$.
 
-    \[Ans: (c), (d)\]
+    [Ans: (c), (d)]
 
 5.  Consider two polynomials $p(x) = -x^5 + 5x^4 - 7x - 2$ and
     $q(x) = -x^5 + 5x^4 - x^3 - 2$. Which of the following options
@@ -1496,7 +1458,7 @@
 
     4.  $q(x) \to -\infty$ as $x \to \infty$.
 
-    \[Ans: (a), (d)\]
+    [Ans: (a), (d)]
 
 6.  Consider the functions $f(x) = \sqrt{x + 4}$ and
     $g(x) = \log(1+x^2)$. Which of the following options is/are true?
@@ -1509,7 +1471,7 @@
 
     4.  $(g \circ f)(x) = \log (x + 5)$ on its domain of definition.
 
-    \[Ans: (d)\]
+    [Ans: (d)]
 
 7.  Choose the correct option(s).
 
@@ -1521,7 +1483,7 @@
 
     4.  $\lim_{x \to 0} \frac{e^{1/x}}{e^{1/x} + 1} = 1$
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 8.  Consider the following function: $$f(x) = 
     \begin{cases} 
@@ -1539,7 +1501,7 @@
 
     4.  At $x = 1$, the function $f$ is discontinuous.
 
-    \[Ans: (c), (d)\]
+    [Ans: (c), (d)]
 
 9.  Consider the following functions:
 
@@ -1554,13 +1516,13 @@
     respectively, from $t = 0$ to $t=1$ then what is the value of
     $[A] + [B]$.
 
-    \[Ans: 23\]
+    [Ans: 23]
 
 10. If $\alpha$ and $\beta$ are the Y-coordinates of the points of
     intersection of the curves $v(t)$ and $s(t)$ then what is the value
     of $10(\alpha + \beta)$.
 
-    \[Ans: 4\]
+    [Ans: 4]
 
 11. Consider the following adjacency matrix
 
@@ -1582,22 +1544,18 @@
 
     4.  There is a cycle in G.
 
-    \[Ans: (b), (d)\]
+    [Ans: (b), (d)]
 
 12. What is the minimum number of colours required to colour the graph
     given below?
 
-    ::: center
-    ![image](./may24.3.png){width="30%"}
-    :::
+    ![image](./may24.3.png){: style="width:30%"}
 
-    \[Ans: 3\]
+    [Ans: 3]
 
 13. Suppose we obtain the following BFS tree rooted at node A for an
     undirected graph with vertices $\{A, B, C, D, E, F, G\}$.
 
-    ::: center
-    :::
 
     Which of the following cannot be an edge in the original graph?
 
@@ -1609,7 +1567,7 @@
 
     4.  $(B,F)$
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 14. Which of the following is (are) correct?
 
@@ -1622,7 +1580,7 @@
 
     4.  Dijkstra's algorithm is used for all pair shortest paths.
 
-    \[Ans: (a), (b), (c)\]
+    [Ans: (a), (b), (c)]
 
 15. Consider a weighted graph G with 7 vertices (rows and columns are in
     the order $V_1, V_2, V_3, V_4, V_5, V_6, V_7$), which is represented
@@ -1650,14 +1608,13 @@
 
     4.  $V_1, V_3, V_6, V_7, V_5, V_4, V_2$
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 16. Find the value of MCST.
 
-    \[Ans: 108\]
+    [Ans: 108]
 
-# Quiz 1 Jan 24 {#quiz-1-jan-24 .unnumbered}
-
+# Quiz 1 Jan 24
 1.  Consider the following relations defined on the set of integers:
 
     - $R_{1}=\{(x, y): x, y \in \mathbb{Z}$ and $|x-y| \leq 3\}$.
@@ -1676,7 +1633,7 @@
     4.  $R_{2}$ is an equivalence relation but $R_{1}$ is not an
         equivalence relation.
 
-    \[Ans: (a), (d)\]
+    [Ans: (a), (d)]
 
 2.  Let $f(x)=|x^{2}-4|-1$. Which of the following option(s) are true
     for $f$?
@@ -1689,7 +1646,7 @@
 
     4.  The minimum value of $f$ is 0.
 
-    \[Ans: (a), (c)\]
+    [Ans: (a), (c)]
 
 3.  In a grocery store, 60 customers made a purchase on a specific day.
     28 people bought bread, 37 people bought milk and 30 people bought
@@ -1701,12 +1658,12 @@
 
 4.  Find the number of customers who bought milk and fruits.
 
-    \[Ans: 11\]
+    [Ans: 11]
 
 5.  Find the number of customers who bought milk and fruits but not
     bread.
 
-    \[Ans: 2\]
+    [Ans: 2]
 
 6.  Consider two triangles $ABC$ and $PAB$ with coordinates
     $A(4,3), B(2,2), C(8,3)$ and $P(t, t^{2})$. The area of triangle
@@ -1716,7 +1673,7 @@
 
 7.  What is the area of the triangle $ABC$?
 
-    \[Ans: 2\]
+    [Ans: 2]
 
 8.  Choose all the possible options for $P$.
 
@@ -1730,7 +1687,7 @@
 
     5.  $(1, 1)$
 
-    \[Ans: (d), (e)\]
+    [Ans: (d), (e)]
 
 9.  Suppose that $L_{1}$ and $L_{2}$ are lines in the plane, with the
     $x$-intercepts of $L_{1}$ and $L_{2}$ are 2 and -1, respectively,
@@ -1748,7 +1705,7 @@
 
     4.  $(6,6)$
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 11. If $\theta$ is the angle between $L_{1}$ and $L_{2}$, then
     $\tan \theta$ is equal to
@@ -1761,7 +1718,7 @@
 
     4.  $\frac{1}{4}$
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 12. Which of the following options is/are true?
 
@@ -1777,7 +1734,7 @@
     4.  The point at which the slope of the equation $x^{2}+2x-5$ equals
         10 is $(4,19)$
 
-    \[Ans: (c), (d)\]
+    [Ans: (c), (d)]
 
 13. If the slope of parabola $y=Ax^{2}+Bx+C$, where
     $A, B, C \in \mathbb{R}$ at points $(3,2)$ and $(2,3)$ are 16 and 12
@@ -1787,11 +1744,11 @@
 
 14. Calculate the value of $A$
 
-    \[Ans: 2\]
+    [Ans: 2]
 
 15. Calculate the value of $B$
 
-    \[Ans: 4\]
+    [Ans: 4]
 
 16. Ram and Shyam want to solve a quadratic equation. Ram made a mistake
     in writing down the constant term and ended up in getting roots as 3
@@ -1807,7 +1764,7 @@
 
     4.  2 and 5
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 17. Consider two polynomials $p(x)=-x^{5}+5x^{4}-7x-2$ and
     $q(x)=-x^{5}+5x^{4}-x^{2}-2$. Which of the following options is/are
@@ -1822,13 +1779,11 @@
     4.  The quotient obtained while dividing $q(x)$ by $p(x)$ is a
         constant.
 
-    \[Ans: (b), (c), (d)\]
+    [Ans: (b), (c), (d)]
 
 18. Consider the following polynomial $p(x)$ whose graph is given below:
 
-    ::: center
-    ![image](./jan24.1.png){width="60%"}
-    :::
+    ![image](./jan24.1.png){: style="width:60%"}
 
     Which of the following options is/are correct.
 
@@ -1840,10 +1795,9 @@
 
     4.  The number of turning points is 5.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
-# Quiz 2 Jan 24 {#quiz-2-jan-24 .unnumbered}
-
+# Quiz 2 Jan 24
 1.  Choose the correct option(s) from the following:
 
     1.  If $g$ is an even function, then $f \circ g$ is always an even
@@ -1859,22 +1813,22 @@
     4.  There exists a function $g$ which is not one-one and a function
         $f$ which is one-one such that $f \circ g$ is one-one.
 
-    \[Ans: (a), (c)\]
+    [Ans: (a), (c)]
 
 2.  Find the number of solution(s) of the equation $9^{x}+3^{x}-6=0$.
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 3.  Let $f(x)=\sqrt{x}$ and $g(x)=\sqrt{3-x}$.
 
-    ::: center
-              Composition of functions         Function                      Domain
-      ------- -------------------------- ----- ----------------------- ----- ----------------
-      i\)     $f \circ g$                a\)   $\sqrt{3-\sqrt{x}}$     1\)   $[0, \infty)$
-      ii\)    $g \circ f$                b\)   $\sqrt[4]{x}$           2\)   \[-6,3\]
-      iii\)   $f \circ f$                c\)   $\sqrt{3-\sqrt{3-x}}$   3\)   $(-\infty, 3]$
-      iv\)    $g \circ g$                d\)   $\sqrt[4]{3-x}$         4\)   \[9\]
-    :::
+
+    |  | Composition of functions |  | Function |  | Domain |
+    | --- | --- | --- | --- | --- | --- |
+    | i\) | $f \circ g$ | a\) | $\sqrt{3-\sqrt{x}}$ | 1\) | $[0, \infty)$ |
+    | ii\) | $g \circ f$ | b\) | $\sqrt[4]{x}$ | 2\) | [-6,3] |
+    | iii\) | $f \circ f$ | c\) | $\sqrt{3-\sqrt{3-x}}$ | 3\) | $(-\infty, 3]$ |
+    | iv\) | $g \circ g$ | d\) | $\sqrt[4]{3-x}$ | 4\) | [9] |
+
 
     From the above table, answer the given subquestions.
 
@@ -1888,7 +1842,7 @@
 
     4.  i)-d)-3)
 
-    \[Ans: (d)\]
+    [Ans: (d)]
 
 5.  Choose the correct option from the following:
 
@@ -1900,7 +1854,7 @@
 
     4.  ii)-a)-3)
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 6.  Choose the correct option from the following:
 
@@ -1912,7 +1866,7 @@
 
     4.  iii)-c)-2)
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 7.  Choose the correct option from the following:
 
@@ -1924,7 +1878,7 @@
 
     4.  iv)-b)-2)
 
-    \[Ans: (c)\]
+    [Ans: (c)]
 
 8.  Let
     $f(x)= \begin{cases}-\left|x^{2}-1\right| & x<a \\ \sqrt{x+2} & x \geq a\end{cases}$
@@ -1934,39 +1888,39 @@
 9.  Find the smallest value of $a$ such that the function $f$ is defined
     for all real numbers.
 
-    \[Ans: -2\]
+    [Ans: -2]
 
 10. Find the largest value of $a$ such that the function $f$ is defined
     for all real numbers and satisfies the horizontal line test.
 
-    \[Ans: -1\]
+    [Ans: -1]
 
 11. Find the number solution(s) of the equation
     $\ln (7)+\ln \left(2-4 x^{2}\right)=\ln (14)$.
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 12. If $f(x)=\sqrt{9-x^{2}}$, then find out the value of
     $8 \sqrt{8} \times \lim _{x \rightarrow 1} \frac{f(x)-f(1)}{x-1}$.
 
-    \[Ans: -8\]
+    [Ans: -8]
 
 13. Consider the function $f(x)=\frac{2 x^{2}}{|x|}$. Then
     $\lim _{x \rightarrow 0} f(x)$ is
 
-    \[Ans: 0\]
+    [Ans: 0]
 
 14. Find the limits of the given sequences in the subquestions.
 
 15. $\left\{a_{n}\right\}$ such that
     $a_{n}=\frac{100 n^{2}-11}{100 n^{3}+7}$
 
-    \[Ans: 0\]
+    [Ans: 0]
 
 16. Evaluate the following limit:
     $$\lim _{x \rightarrow 2} \frac{x^{6}-24 x-16}{x^{3}+2 x-12}$$
 
-    \[Ans: 12\]
+    [Ans: 12]
 
 17. Choose the set of correct options.
 
@@ -1983,7 +1937,7 @@
     4.  If $f(x)$ and $g(x)$ are differentiable functions, then
         $|(f+g)(x)|$ is also a differentiable function.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
 18. Consider the function
     $$f(x)= \begin{cases}\frac{3 x}{(x+2)^{2}} & x \leq-1 \\ 2 x-5 & -1 < x \leq1\\ \frac{-8}{x+1} & x > 1\end{cases}$$
@@ -1991,16 +1945,15 @@
     Find the total number of points in $(-2,2)$ at which $f(x)$ is not
     continuous.
 
-    \[Ans: 2\]
+    [Ans: 2]
 
 19. Let $f$ be a differentiable function such that $f^{\prime}(4)=1$ and
     $f(4)=-3$. If $y=a x+b$ denotes the tangent of the function $f$ at
     $x=4$ then find the value of $b$.
 
-    \[Ans: -7\]
+    [Ans: -7]
 
-# End Term Jan 24 {#end-term-jan-24 .unnumbered}
-
+# End Term Jan 24
 1.  Suppose $A=\{a, b, c, d\}$ and $B=\{p, q, r, s\}$ are two sets.
     Consider the following relations on $A \times B$.
 
@@ -2022,7 +1975,7 @@
 
     4.  $R_{4}$ is a bijective function.
 
-    \[Ans: (b), (d)\]
+    [Ans: (b), (d)]
 
 2.  A person is climbing stairs and he stops at a point $P$ on the
     stairs after reaching two-third of the total distance of stairs. The
@@ -2034,12 +1987,12 @@
 
 3.  Find the angle between the stairs and the wall (in degrees).
 
-    \[Ans: 45\]
+    [Ans: 45]
 
 4.  If the distance between the bottom of the stairs and the wall is 3
     m, the $x$-coordinate of $P$ is
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 5.  Which of the following statements is/are true about the function
     $f(x)=\log (\log (x))$?
@@ -2052,7 +2005,7 @@
 
     4.  The domain of $f$ is $(0, \infty)$
 
-    \[Ans: (a), (b)\]
+    [Ans: (a), (b)]
 
 6.  Find $\lim_{n \rightarrow \infty} a_{n}$ for the given sequences.
 
@@ -2062,13 +2015,13 @@
 
     Note: Enter your answer correctly to two decimal places.
 
-    \[Ans: 0.16 to 0.17\]
+    [Ans: 0.16 to 0.17]
 
 8.  $\{a_{n}\}$ such that $a_{n}=\frac{1}{10}+\frac{(-1)^{n}}{n^{3}}$
 
     Note: Enter your answer correctly to two decimal places.
 
-    \[Ans: 0.08 to 0.12\]
+    [Ans: 0.08 to 0.12]
 
 9.  Consider the following function: $$f(x) = \begin{cases}
     \log(-x-2) & x < -2 \\
@@ -2089,7 +2042,7 @@
 
     4.  $f(y)$ is not differentiable at $y=0$.
 
-    \[Ans: (b), (c)\]
+    [Ans: (b), (c)]
 
     Are the given statements about the function $f(x)$ true or false?
 
@@ -2101,7 +2054,7 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 12. The limit of $f(x)$ at $x=2$ exists and it's equal to $f(2)=-1$.
     i.e. $f(x)$ is continuous at $x=2$.
@@ -2110,7 +2063,7 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 13. The limit of $f(x)$ at $x=-2$ exists and it's equal to $f(-2)=-1$.
     i.e. $f(x)$ is continuous at $x=-2$.
@@ -2119,7 +2072,7 @@
 
     2.  FALSE
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 14. $f(x)$ is continuous on the entire real line.
 
@@ -2127,7 +2080,7 @@
 
     2.  FALSE
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 15. Suppose $f$ is a real valued function defined on $\mathbb{R}$. Let
     $f(x+y)=f(x) f(y)$ for all $x, y \in \mathbb{R}$ and $f(1)=7$ and
@@ -2137,11 +2090,11 @@
 
 16. What is the value of $f(0)$?
 
-    \[Ans: 1\]
+    [Ans: 1]
 
 17. What is the value of $f^{\prime}(1)$?
 
-    \[Ans: 14\]
+    [Ans: 14]
 
 18. Consider a polynomial function
     $f(x)=\frac{x^{5}}{5}-\frac{5x^{3}}{3}+4x$ which is defined in
@@ -2151,7 +2104,7 @@
 
 19. How many critical points does $f(x)$ have?
 
-    \[Ans: 4\]
+    [Ans: 4]
 
 20. Is the statement True or False: $f(x)$ is decreasing in the set
     $(-2,-1] \cup(-1,2)$ and $x=1$ is saddle point.
@@ -2160,7 +2113,7 @@
 
     2.  FALSE
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 21. Is the statement True or False: $f(x)$ is increasing in the set
     $(-\infty,-2) \cup(2, \infty)$ and $x=1$ is the point of local
@@ -2170,17 +2123,15 @@
 
     2.  FALSE
 
-    \[Ans: (a)\]
+    [Ans: (a)]
 
 22. How many points of local minima does $f(x)$ have?
 
-    \[Ans: 2\]
+    [Ans: 2]
 
 23. Consider the given graph
 
-    ::: center
-    ![image](./jan24.2.png){width="40%"}
-    :::
+    ![image](./jan24.2.png){: style="width:40%"}
 
     Which of the following is the longest path of the graph?
 
@@ -2192,30 +2143,26 @@
 
     4.  CBAEFCD
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 24. The DFS (Depth First Search) tree of a graph starting with vertex
     $A$ is shown below. Choose the option which might be the original
     graph.
 
-    ::: center
-    :::
 
     1.  
     2.  
     3.  
     4.  
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 25. What is the minimum number of colors required to color the graph
     given below?
 
-    ::: center
-    ![image](./jan24.3.png){width="25%"}
-    :::
+    ![image](./jan24.3.png){: style="width:25%"}
 
-    \[Ans: 3\]
+    [Ans: 3]
 
 26. Consider the following adjacency matrix of an undirected graph
     $$\begin{pmatrix}
@@ -2239,24 +2186,21 @@
 
     4.  There is an edge between every pair of vertices.
 
-    \[Ans: (a), (b)\]
+    [Ans: (a), (b)]
 
 28. What is the size of the minimum vertex cover of graph G?
 
-    \[Ans: 3\]
+    [Ans: 3]
 
 29. Consider the following graph:
 
-    ::: center
-    ![image](./jan24.4.png){width="40%"}
-    :::
+    ![image](./jan24.4.png){: style="width:40%"}
 
     Calculate the cost of minimum spanning tree for the above graph.
 
-    \[Ans: 26\]
+    [Ans: 26]
 
-# Quiz 1 Sep 23 {#quiz-1-sep-23 .unnumbered}
-
+# Quiz 1 Sep 23
 1.  In a survey among 140 people, it was found that 75% of these 140
     people like playing cricket and 50% of all the 140 people like
     playing football. Note that, some people may not like both games and
@@ -2264,12 +2208,12 @@
 
     1.  What is the minimum number of people who like both games?
 
-        \[Ans: 35\]
+        [Ans: 35]
 
     2.  If there are 10 people who don't like both games, then what is
         the number of people who like only cricket?
 
-        \[Ans: 60\]
+        [Ans: 60]
 
 2.  Let $S$ be the set of all quadratic functions i.e.,
     $$S = \{ ax^2 + bx + c \mid a \neq 0,\, a, b, c, x \in \mathbb{R} \}.$$
@@ -2295,7 +2239,7 @@
 
         4.  $R_2$ is a transitive relation.
 
-        \[ans: (i), (ii)\]
+        [ans: (i), (ii)]
 
     2.  Which of the following options is true?
 
@@ -2307,7 +2251,7 @@
 
         4.  $R_2$ is not an onto function.
 
-        \[ans: (ii)\]
+        [ans: (ii)]
 
 3.  Let $A = \{1, 2, 3, 4, 5\}$ and $B = \{2, 4, 6, 8\}$. Which of the
     following options is/are true?
@@ -2320,7 +2264,7 @@
 
     4.  $B - A = \{6, 8\}$
 
-    \[ans: (b), (d)\]
+    [ans: (b), (d)]
 
     1.  Consider the following three straight lines:\
         $\ell_1: 2x + 3y = 2$\
@@ -2336,7 +2280,7 @@
 
         4.  $\ell_1$ is equidistant from the line $\ell_2$ and $\ell_3$.
 
-        \[ans: (b)\]
+        [ans: (b)]
 
     Let $P$ be the intersection point of the lines $2x + y = 1$ and
     $x - y = 2$. Let $\ell$ be a straight line that passes through the
@@ -2362,10 +2306,10 @@
     4.  The distance of the line $x - y = 2$ from the point $(0, 1)$ is
         $1$ unit.
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 5.  Find the SSE, calculated for the line $\ell$.\
-    \[ans: 10\]
+    [ans: 10]
 
 6.  Consider a function $f(x) = |x| + x^2 + 2$. Which of the following
     options is true?
@@ -2378,7 +2322,7 @@
 
     4.  Range of $f$ is the interval $(0, \infty)$.
 
-    \[Ans: (b)\]
+    [Ans: (b)]
 
 7.  Consider a quadratic function $q(x) = ax^2 + 20x + 15$, where
     $a \in \mathbb{R} \setminus \{0\}$. If slope of $q(x)$ at $x = 2$ is
@@ -2393,7 +2337,7 @@
 
     4.  $q(x)$ has the minimum value at $x = 2$.
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 8.  A retail shopkeeper is interested in purchasing clothes from a
     wholesale supplier. The price per clothing item is \$1800 if the
@@ -2406,11 +2350,11 @@
     amount paid by the retail shopkeeper to the wholesale supplier is
     maximum.
 
-    \[ans: 165\]
+    [ans: 165]
 
 9.  Consider a polynomial $p(x)$ whose graph is given below:
 
-    ![image](./Q1S231.png){width="50%"}
+    ![image](./Q1S231.png){: style="width:50%"}
 
     Which of the following options is/are true?
 
@@ -2422,7 +2366,7 @@
 
     4.  The possible multiplicity of the root 3 is 1.
 
-    \[ans: (a), (d)\]
+    [ans: (a), (d)]
 
 10. Which of the following options is/are true?
 
@@ -2436,7 +2380,7 @@
 
     4.  A line that is parallel to $Y$-axis has slope $0$.
 
-    \[ans: (b), (c)\]
+    [ans: (b), (c)]
 
 11. Consider four polynomials $p(x), q(x), r(x)$ and $s(x)$ as follows:
 
@@ -2460,10 +2404,9 @@
     4.  When $p(x)$ divides $r(x)$ then obtained remainder is a
         quadratic function.
 
-    \[ans: (b), (c)\]
+    [ans: (b), (c)]
 
-# Quiz 2 Sep 23 {#quiz-2-sep-23 .unnumbered}
-
+# Quiz 2 Sep 23
 1.  Consider the functions $f(x) = \sqrt{x+2}$ and
     $g(x) = \log(1 + x^2)$. Which of the following options is/are true?
 
@@ -2475,7 +2418,7 @@
 
     4.  The domain of the function $(g \circ f)(x)$ is $(-2, \infty)$.
 
-    \[ans: (c), (d)\]
+    [ans: (c), (d)]
 
 2.  Consider two functions $f(x) = \log_2(\log_2(\log_3 x))$ and
     $g(x) = -x^2 + 4x + 77$. Let $h(x)$ be a function defined as
@@ -2483,31 +2426,31 @@
     answer the given subquestions.
 
     1.  Find the maximum value of $g(x)$.\
-        \[ans: 81\]
+        [ans: 81]
 
     2.  Find the maximum value of $h(x)$.\
-        \[ans: 1\]
+        [ans: 1]
 
     <!-- -->
 
     1.  Find the number of solutions of the equation
         $e^{3x} - 4e^{2x} + 3e^{x} = 0$.\
-        \[ans: 2\]
+        [ans: 2]
 
     2.  Find the value of $x$ that satisfies the equation
         $9^x - 2 \times 3^{x+1} - 27 = 0$.\
-        \[ans: 2\]
+        [ans: 2]
 
 3.  Let $f(2) = 10$ and $f'(2) = 4$. Then, calculate the value of
     $$\lim_{x \to 2} \frac{x f(2) - 2 f(x)}{x-2}$$
 
-    \[ans: 2\]
+    [ans: 2]
 
 4.  Calculate,
     $$\lim_{x \to 9} \frac{2\left(\sqrt{f(x)} - 3\right)}{\sqrt{x} - 3},$$
     given that $f(9) = 9$ and $f'(9) = 4$.
 
-    \[ans: 8\]
+    [ans: 8]
 
 5.  Choose the correct option for $f(x) = \dfrac{1}{x-1}$.
 
@@ -2523,7 +2466,7 @@
     4.  The function $(f \circ f)(x)$ in its domain is discontinuous
         only at point/points $x=1,\, x=2$ and $x=3$.
 
-    \[ans: (b)\]
+    [ans: (b)]
 
 6.  Choose the set of **INCORRECT** options.
 
@@ -2539,7 +2482,7 @@
     4.  If $f(x)$ and $g(x)$ are one-one functions, then $g \circ f(x)$
         is also one-one function.
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 7.  Given a function $$f(x) = 
     \begin{cases}
@@ -2555,11 +2498,11 @@
 
     4.  $f$ is differentiable at $x = 0.$
 
-    \[ans: (a), (c)\]
+    [ans: (a), (c)]
 
 8.  Consider the graphs given below:
 
-    ![image](./s23q21.png){width="50%"}
+    ![image](./s23q21.png){: style="width:50%"}
 
     Choose the set of correct options:
 
@@ -2575,7 +2518,7 @@
     4.  The derivative of the function corresponding to Curve 4 does not
         exist at any point.
 
-    \[ans: (a), (b)\]
+    [ans: (a), (b)]
 
 9.  Consider a function $f$ defined as, $$f(x) =
     \begin{cases}
@@ -2584,7 +2527,7 @@
     5mx - 2n & x > 1.
     \end{cases}$$ If $f$ is continuous at $x = 1$, then the value of
     $m + n$ is\
-    \[ans: 5\]
+    [ans: 5]
 
 10. Let $f$ be a differentiable function such that $f(4) = 6$ and
     $f'(4) = -2$. What is the approximated value of $f(4.2)$ using the
@@ -2598,10 +2541,9 @@
 
     4.  5.6
 
-    \[ans: (d)\]
+    [ans: (d)]
 
-# End Term Sep 23 {#end-term-sep-23 .unnumbered}
-
+# End Term Sep 23
 1.  Consider relations $R_1$ and $R_2$ on $\mathbb{N}$,
     $R_1 \subseteq \mathbb{N} \times \mathbb{N}$ and
     $R_2 \subseteq \mathbb{N} \times \mathbb{N}$, defined as
@@ -2617,13 +2559,13 @@
 
     4.  $R_2$ is both reflexive and transitive.
 
-    \[ans: (b), (c), (d)\]
+    [ans: (b), (c), (d)]
 
 2.  Let $PQRS$ be a parallelogram with vertices $P(-1,2)$, $Q(3,-4)$,
     and $S(8,9)$. Let $(x, y)$ denote the coordinates of the fourth
     vertex $R$. Find the area of the $\triangle QRS$.
 
-    \[ans: 41\]
+    [ans: 41]
 
 3.  Which of the following is true about the polynomial
     $f(x) = 2x^3 - 3x^2 - 12x + 4$?
@@ -2639,7 +2581,7 @@
 
     5.  $f(x)$ has $3$ turning points.
 
-    \[ans: (a), (c), (d)\]
+    [ans: (a), (c), (d)]
 
 4.  Which of the following statements is/are true about the function
     $f(x) = -\left(e^{\log x}\right)^2$?
@@ -2652,7 +2594,7 @@
 
     4.  The domain of $f$ is $(0, \infty)$.
 
-    \[ans: (c), (d)\]
+    [ans: (c), (d)]
 
 5.  Consider the function $$f(x) = 
     \begin{cases}
@@ -2663,7 +2605,7 @@
 
     Find the value of $\displaystyle \lim_{x \to 0^+} f(x)$.
 
-    \[ans: 8\]
+    [ans: 8]
 
 6.  Is this statement True or False: If $f$ is continuous at $x = 0$,
     then it is differentiable at $x = 0$ also.
@@ -2672,11 +2614,11 @@
 
     2.  False
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 7.  Let $a_n = f(n),\ n > 0$. Find
     $\displaystyle \lim_{n \to \infty} a_n$.\
-    \[ans: 0\]
+    [ans: 0]
 
 8.  An LED manufacturer determines that in order to sell $x$ number of
     LEDs, the price per LED (in thousands) must be $f(x) = 1000 - x$, if
@@ -2689,12 +2631,12 @@
     due to a production issue. The number of LEDs the company should
     produce and sell in order to maximize profit is
 
-    \[ans: 350\]
+    [ans: 350]
 
 9.  Consider a function $f(x) = 3x + 2$ in the interval $[0, 4]$. Find
     the area under the curve $f(x)$ in the interval $[0, 4]$.
 
-    \[ans: 32\]
+    [ans: 32]
 
 10. Is this statement True or False: If the interval $[0, 4]$ is divided
     into 4 equal parts, then the left Riemann sum is $26$.
@@ -2703,7 +2645,7 @@
 
     2.  False
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 11. Consider the function $f(x) = \sin x$. Let $\ell$ be the tangent
     line of the function at $x = \frac{1}{2}$. Use this information to
@@ -2717,7 +2659,7 @@
 
     2.  False
 
-    \[ans: (b)\]
+    [ans: (b)]
 
 12. Is this statement True or False:
     $$\int_0^{\frac{\pi}{2}} f(x)\,dx = 1$$
@@ -2726,7 +2668,7 @@
 
     2.  False
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 13. Is this statement True or False: $f(x)$ has infinitely many critical
     points.
@@ -2735,11 +2677,11 @@
 
     2.  False
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 14. Consider the given graph:
 
-    ![image](./Sep23ET1.png){width="50%"}
+    ![image](./Sep23ET1.png){: style="width:50%"}
 
     Which of the following orderings is the longest path of the graph?
 
@@ -2751,11 +2693,11 @@
 
     4.  ABECDJ
 
-    \[ans: (b)\]
+    [ans: (b)]
 
 15. Use the below graph to answer the given sub-questions.
 
-    ![image](./S23ET2.png){width="50%"}
+    ![image](./S23ET2.png){: style="width:50%"}
 
     Which of the following options is/are true?
 
@@ -2767,20 +2709,20 @@
 
     4.  The minimum number of colors to color the graph is 3.
 
-    \[ans: (c), (d)\]
+    [ans: (c), (d)]
 
 16. Which of the following is/are the BFS tree(s) starting from vertex
     $1$ of the given graph?
 
-    1.  ![image](./Sep23ETo1.png){width="50%"}
+    1.  ![image](./Sep23ETo1.png){: style="width:50%"}
 
-    2.  ![image](./sep23ETo2.png){width="50%"}
+    2.  ![image](./sep23ETo2.png){: style="width:50%"}
 
-    3.  ![image](./sep23ETo3.png){width="50%"}
+    3.  ![image](./sep23ETo3.png){: style="width:50%"}
 
-    4.  ![image](./sep23ETo4.png){width="50%"}
+    4.  ![image](./sep23ETo4.png){: style="width:50%"}
 
-    \[ans: (d)\]
+    [ans: (d)]
 
 17. Which of the following is (are) correct?
 
@@ -2796,7 +2738,7 @@
 
     5.  Dijkstra's algorithm is used for all pair shortest paths.
 
-    \[ans: (a), (b), (d)\]
+    [ans: (a), (b), (d)]
 
     Consider a weighted graph $G$ with $7$ vertices
     $\{ \text{rows and columns are in the order } V_1, V_2, V_3, V_4, V_5, V_6, V_7 \}$,
@@ -2825,13 +2767,12 @@
 
     4.  $(V_1, V_7)$
 
-    \[ans: (a),(c)\]
+    [ans: (a),(c)]
 
 19. Find the value of MCST.\
-    \[ans: 54\]
+    [ans: 54]
 
-# Quiz 1 May 23 {#quiz-1-may-23 .unnumbered}
-
+# Quiz 1 May 23
 1.  Let
     $S = \{\text{Jan}, \text{Feb}, \text{March}, \text{April}, \text{May}\}$
     be a set of months of a particular year. Consider the following
@@ -2864,17 +2805,17 @@
         comma or space in between them i.e., if your answer is 6 and 7,
         then you should enter 67)
 
-        \[ans: 245\]
+        [ans: 245]
 
     2.  $R_2$ is . (Enter all correct options. Enter only the serial
         numbers of those options in increasing order without adding any
         comma or space in between them i.e., if your answer is 3 and 4,
         then you should enter 34)
 
-        \[ans: 12367\]
+        [ans: 12367]
 
     3.  Find the cardinality of the set $(S \times S) \setminus R_2$.\
-        \[ans: 20\]
+        [ans: 20]
 
 2.  A company opened recruitment for the post of data analyst. 500
     candidates have applied for the post. 285 candidates are proficient
@@ -2886,7 +2827,7 @@
     Find the number of candidates who are proficient in exactly one of
     the three programming languages.
 
-    \[ans: 325\]
+    [ans: 325]
 
 3.  Which of the following options is/are true?
 
@@ -2902,13 +2843,13 @@
     4.  The distance between two parallel lines $2x + 3y = 6$ and
         $4x + 6y = 12$ is $0$.
 
-    \[ans: (c), (d)\]
+    [ans: (c), (d)]
 
 4.  Consider the points $A(0,3)$, $B(x,y)$, $C(4,3)$, $D(1,0)$ and
     $E(3,1)$ in the coordinate system. Suppose the point $B$ divides
     internally the line segment $AC$ in the ratio $k:1$. If the area of
     triangle $DEB$ is $2$, then find the positive value of $k$.\
-    \[ans: 3\]
+    [ans: 3]
 
 5.  Suppose the line $y = 2x + k$ is the best fit line using SSE for the
     data set given in Table 1 for some $k \in \mathbb{R}$.
@@ -2917,7 +2858,7 @@
     \hline
     y & 2 & 3 & -3 & -1 \\
     \end{array}$$ Find the value of $16k$.\
-    \[ans: -12\]
+    [ans: -12]
 
 6.  Consider a quadratic function $q(x) = ax^2 + bx + c$, where
     $a, b, c \in \mathbb{R}$ and $a \neq 0$ with the following
@@ -2930,20 +2871,20 @@
     - Slope of the function at $x = 1$ is $8$.
 
     Find the value $q(2)$.\
-    \[ans: 17\]
+    [ans: 17]
 
 7.  Consider a polynomial $p(x) = 0.3x^3(x^2 - 1)(x - 2)^2(x - 3)$.\
     Which of the figure represents the polynomial $p(x)$?
 
-    1.  ![image](./fig1.png){width="50%"}
+    1.  ![image](./fig1.png){: style="width:50%"}
 
-    2.  ![image](./fig 2.png){width="50%"}
+    2.  ![image](./fig 2.png){: style="width:50%"}
 
-    3.  ![image](./fig 3.png){width="50%"}
+    3.  ![image](./fig 3.png){: style="width:50%"}
 
-    4.  ![image](./fig 4.png){width="50%"}
+    4.  ![image](./fig 4.png){: style="width:50%"}
 
-    \[ans: (c)\]
+    [ans: (c)]
 
 8.  Consider two polynomials $p(x) = x^4 + 3x^3 - 9x + 8$ and
     $q(x) = (x^2 + x)(x + 3)$. Let $r(x)$ be the remainder obtained when
@@ -2951,7 +2892,7 @@
     through the $y$-intercept and the minimum point in the graph of
     $r(x)$. For reference, see Figure: M1Q1-1.
 
-    ![image](./may23Q1.png){width="25%"}
+    ![image](./may23Q1.png){: style="width:25%"}
 
     Which of the following options is/are true?
 
@@ -2963,7 +2904,7 @@
 
     4.  The number of turning points in $q(x)$ is $2$
 
-    \[ans: (b), (d)\]
+    [ans: (b), (d)]
 
 9.  A company's profit function, given by $P(x) = -2x^2 + 8x - 6$,
     represents the relationship between the quantity ($x$) of the raw
@@ -2972,11 +2913,11 @@
 
     1.  Find the quantity of the raw material such that the company has
         the maximum profit.\
-        \[ans: 2\]
+        [ans: 2]
 
     2.  Find the quantity of the raw material ($x > 1$) such that the
         company has no profit.\
-        \[ans: 3\]
+        [ans: 3]
 
 10. Consider a polynomial
     $$p(x) = (x^2 - 1)(x^3 - 4x^2 + 4x)(x^3 - 10x^2 + 33x - 36)$$ such
@@ -2994,7 +2935,7 @@
     1.  If $m$ is the number of distinct roots and $n$ is the number of
         turning points of the polynomial $p(x)$, then find the value of
         $m + n$.\
-        \[ans: 13\]
+        [ans: 13]
 
     2.  Which of the following options is/are true?
 
@@ -3006,10 +2947,9 @@
 
         4.  End behavior $p(x) \to +\infty$ as $x \to -\infty$.
 
-        \[ans: (i), (iii), (iv)\]
+        [ans: (i), (iii), (iv)]
 
-# Quiz 2 May 23 {#quiz-2-may-23 .unnumbered}
-
+# Quiz 2 May 23
 1.  Define a function $$f(x) = 
     \begin{cases}
     x^2 + 1 & \text{if } x < 1 \\
@@ -3029,7 +2969,7 @@
     5.  The inverse of $f(x)$ when the domain is restricted to
         $(-\infty, 0)$ is $f^{-1}(x) = \sqrt{x-1}$.
 
-    \[ans: (b), (d)\]
+    [ans: (b), (d)]
 
 2.  Consider the functions $f(x) = \log x^2$ and $g(x) = 2x + 1$. Which
     of following options is/are true?
@@ -3047,16 +2987,16 @@
     5.  The domain of the function $(g \circ f)(x)$ is
         $\mathbb{R} \setminus \{0\}$.
 
-    \[ans: (a), (d), (e)\]
+    [ans: (a), (d), (e)]
 
 3.  If $n$ is the number of solutions of the equation
     $2^{2x+3} - 6 \cdot 2^x + 1 = 0$, then find the value of $4n$.\
-    \[ans: 8\]
+    [ans: 8]
 
 4.  Consider the equation
     $\log_3\left(\log_4(x^2 + 1)^2 + \log_8 8x^3\right) = 0$. Then find
     the value of $x(x^2 + 1) + 7$.\
-    \[ans: 8\]
+    [ans: 8]
 
 5.  Let $\{a_n\}$ be a sequence defined as $a_n = \dfrac{2n+1}{4n+3}$.
     Consider the sequence $\{b_n\}$ defined by
@@ -3064,10 +3004,10 @@
     subquestions.
 
     1.  What is the limit of the sequence $\{a_n\}$?\
-        \[ans: 0.5\]
+        [ans: 0.5]
 
     2.  What is the limit of the sequence $\{b_n\}$?\
-        \[ans: 27\]
+        [ans: 27]
 
 6.  Define a function $$f(x) = 
     \begin{cases}
@@ -3085,7 +3025,7 @@
 
     5.  $f'(7) = 1.$
 
-    \[ans: (a), (c)\]
+    [ans: (a), (c)]
 
 7.  Consider the following functions $f_1 : D_1 \to \mathbb{R}$,
     $f_2 : D_2 \to \mathbb{R}$, $f_3 : D_3 \to \mathbb{R}$ and
@@ -3113,7 +3053,7 @@
 
         4.  $D = (-\infty, 2] \cup [4, \infty)$
 
-        \[ans: (a), (b), (c)\]
+        [ans: (a), (b), (c)]
 
     2.  Which of the following options is/are true?
 
@@ -3129,7 +3069,7 @@
             derivative of the function is
             $g'(x) = 2\cos 2x + \dfrac{1}{x^2-6x+8} + 3e^{3x}$.
 
-        \[ans: (b), (c)\]
+        [ans: (b), (c)]
 
 8.  Which of the following options is/are true?
 
@@ -3145,7 +3085,7 @@
     4.  If the limit of a function exists at a particular point, then
         the function is continuous at that point.
 
-    \[ans: (b), (c)\]
+    [ans: (b), (c)]
 
 9.  Consider three differentiable functions $f(x)$, $g(x)$ and $h(x)$
     such that
@@ -3160,11 +3100,11 @@
 
         3.  $f(0) = g(0)h(0)$
 
-        \[ans: (a), (b), (c)\]
+        [ans: (a), (b), (c)]
 
     2.  Find the value of
         $$\frac{f'(0)}{f(0)} + \lim_{x \to 0} f(x) + \lim_{x \to 0} g(x) + \lim_{x \to 0} h(x).$$
-        \[ans: 9\]
+        [ans: 9]
 
 10. Consider the function $f(x)$ given below: $$f(x) = 
     \begin{cases}
@@ -3174,7 +3114,7 @@
     information to answer the subquestions.
 
     1.  Find the value of $b$.\
-        \[ans: 5\]
+        [ans: 5]
 
     2.  Which of the following options is/are true for the function
         $f(x)$ at $x = 1$?
@@ -3191,21 +3131,20 @@
         4.  The tangent line is
             $y = (4\sin 1 - 2\cos 1)x - 2\sin 1 + 2\cos 1 + 5.$
 
-        \[ans: (a), (d)\]
+        [ans: (a), (d)]
 
-# End Term May 23 {#end-term-may-23 .unnumbered}
-
+# End Term May 23
 1.  Each student in a class of 40 plays at least one indoor game: chess,
     carrom, and scrabble. 18 play chess, 20 play scrabble, and 27 play
     carrom. 7 play chess and scrabble, 12 play scrabble and carrom, and
     4 play chess, carrom, and scrabble.
 
     1.  Find the number of students who play both chess and carrom.\
-        \[ans: 10\]
+        [ans: 10]
 
     2.  Find the number of students who play chess, carrom but not
         scrabble.\
-        \[ans: 6\]
+        [ans: 6]
 
 2.  Consider the three polynomials: $$\begin{align*}
     p(x) &= 5x^5 + a_1 x^4 + b_1 x^2 + c_1, \\
@@ -3228,7 +3167,7 @@
         4.  If $t_2(x)$ is the obtained quotient when $p(x)$ divides
             $s(x)$, then the possible degree of $t_2(x)$ is $2$.
 
-        \[ans: (c), (d)\]
+        [ans: (c), (d)]
 
     2.  Which of the following options is/are true?
 
@@ -3242,7 +3181,7 @@
 
         4.  $s(x) \to -\infty$ as $x \to \infty$.
 
-        \[ans: (a), (d)\]
+        [ans: (a), (d)]
 
 3.  Consider the following functions:
 
@@ -3260,7 +3199,7 @@
 
     4.  Domain of $(g \circ f)(x)$ is the interval $(2, \infty)$.
 
-    \[ans: (b)\]
+    [ans: (b)]
 
 4.  Consider the following piecewise function: $$f(x) = 
     \begin{cases}
@@ -3275,15 +3214,15 @@
         points. Which of the following figures may represent the graph
         of the function?
 
-        1.  ![image](./may23final7.png){width="50%"}
+        1.  ![image](./may23final7.png){: style="width:50%"}
 
-        2.  ![image](./may23final8.png){width="50%"}
+        2.  ![image](./may23final8.png){: style="width:50%"}
 
-        3.  ![image](./may23final9.png){width="50%"}
+        3.  ![image](./may23final9.png){: style="width:50%"}
 
-        4.  ![image](./may23final10.png){width="50%"}
+        4.  ![image](./may23final10.png){: style="width:50%"}
 
-        \[ans: (a)\]
+        [ans: (a)]
 
     2.  Which of the following options is (are) true?
 
@@ -3297,7 +3236,7 @@
 
         5.  $\displaystyle \lim_{x \to 0^-} f(x) = 1$.
 
-        \[ans: (d), (e)\]
+        [ans: (d), (e)]
 
 5.  The melting point of ice and boiling point of water in Celsius scale
     is $0^\circ$ and $100^\circ$ Centigrade respectively, and in
@@ -3305,7 +3244,7 @@
     respectively. If the change in Fahrenheit scale varies linearly with
     respect to Celsius scale, then at what temperature (in $^\circ$
     Centigrade) do both the scales read the same?\
-    \[ans: -40\]
+    [ans: -40]
 
 6.  The point on the curve $x^2 = 2y$ which is nearest to the point
     $(0, 5)$ is
@@ -3318,7 +3257,7 @@
 
     4.  $(2\sqrt{2}, 4)$
 
-    \[ans: (d)\]
+    [ans: (d)]
 
 7.  An arrow is shot horizontally off from a tower that is $80$ m high
     and follows a parabolic path. If the height (in m) from the ground
@@ -3326,7 +3265,7 @@
     $h(t) = 80 - 5t^2$, then answer the given subquestions:
 
     1.  How much time (in sec) will the arrow take to reach the ground?\
-        \[ans: 4\]
+        [ans: 4]
 
     2.  Which of the following options is/are true?
 
@@ -3341,7 +3280,7 @@
         4.  The linear approximation ($L_h(t)$) of the function $h(t)$
             at $t = 2$ is $L_h(t) = 125 - 30t$.
 
-        \[ans: (a),(c)\]
+        [ans: (a),(c)]
 
 8.  Define a function $f$ in the interval $[-2, 10]$ as follows:
     $$f(x) =
@@ -3353,7 +3292,7 @@
     solid points denote the value of the function at the points, and the
     values denoted by the hollow points are not taken by the function.
 
-    ![image](./may23final1.png){width="50%"}
+    ![image](./may23final1.png){: style="width:50%"}
 
     Use this information to answer the given sub-questions.
 
@@ -3364,7 +3303,7 @@
 
         2.  False
 
-        \[ans: (a)\]
+        [ans: (a)]
 
     2.  Consider the integration: $$\int_{2}^{4} f(x)\, dx = 5.$$
 
@@ -3372,7 +3311,7 @@
 
         2.  False
 
-        \[ans: (b)\]
+        [ans: (b)]
 
     3.  Consider the derivative:
         $$f'(x) = 3(x^2 - 4x + 4) \quad \text{in the interval } (2,4).$$
@@ -3381,7 +3320,7 @@
 
         2.  False
 
-        \[ans: (a)\]
+        [ans: (a)]
 
     4.  Consider the derivative:
         $$f'(x) = \frac{2}{3} \quad \text{in the interval } (4,10).$$
@@ -3390,7 +3329,7 @@
 
         2.  False
 
-        \[ans: (b)\]
+        [ans: (b)]
 
 9.  Define a function $f$ in the interval $[-2, 10]$ as follows:
     $$f(x) =
@@ -3402,7 +3341,7 @@
     solid points denote the value of the function at the points, and the
     values denoted by the hollow points are not taken by the function.
 
-    ![image](./may23final1.png){width="50%"}
+    ![image](./may23final1.png){: style="width:50%"}
 
     Use this information to answer the given sub-questions.
 
@@ -3412,7 +3351,7 @@
 
         2.  False
 
-        \[ans: (b)\]
+        [ans: (b)]
 
     2.  In $[-2, 10]$, the global maximum is attained at $x = -2$.
 
@@ -3420,7 +3359,7 @@
 
         2.  False
 
-        \[ans: (a)\]
+        [ans: (a)]
 
     3.  In $[-2, 10]$, the global minimum is attained at $x = 4$.
 
@@ -3428,7 +3367,7 @@
 
         2.  False
 
-        \[ans: (b)\]
+        [ans: (b)]
 
     4.  There are two points where $f$ is not differentiable in
         $(-2, 10)$.
@@ -3437,11 +3376,11 @@
 
         2.  False
 
-        \[ans: (a)\]
+        [ans: (a)]
 
 10. An undirected graph $G$ has $12$ edges. Find the number of vertices,
     if the degree of each vertex in $G$ is $2$.\
-    \[ans: 12\]
+    [ans: 12]
 
 11. Consider the adjacency matrix of an undirected graph $G$:
     $$\begin{bmatrix}
@@ -3463,30 +3402,30 @@
 
         4.  Each vertex has degree 3.
 
-        \[ans: (b), (c)\]
+        [ans: (b), (c)]
 
     2.  What is the size of the minimum vertex cover of graph $G$?\
-        \[ans: 3\]
+        [ans: 3]
 
 12. Consider the following graph $G$.
 
-    ![image](./may23final1.png){width="50%"}
+    ![image](./may23final1.png){: style="width:50%"}
 
     Which of the following is(are) **not** spanning tree(s) of $G$?
 
-    1.  ![image](./may23final2.png){width="50%"}
+    1.  ![image](./may23final2.png){: style="width:50%"}
 
-    2.  ![image](./may23final3.png){width="50%"}
+    2.  ![image](./may23final3.png){: style="width:50%"}
 
-    3.  ![image](./may23final4.png){width="50%"}
+    3.  ![image](./may23final4.png){: style="width:50%"}
 
-    4.  ![image](./may23final5.png){width="50%"}
+    4.  ![image](./may23final5.png){: style="width:50%"}
 
-    \[ans: (a), (C)\]
+    [ans: (a), (C)]
 
 13. An undirected weighted graph $G$ is given in the below figure.
 
-    ![image](./may23final6.png){width="50%"}
+    ![image](./may23final6.png){: style="width:50%"}
 
     Which of the following option is true?
 
@@ -3498,14 +3437,13 @@
 
     4.  The cost of the minimum spanning tree is $16$.
 
-    \[ans: (a)\]
+    [ans: (a)]
 
-# Quiz 1 Jan 23 {#quiz-1-jan-23 .unnumbered}
-
+# Quiz 1 Jan 23
 1.  The Cartesian product $A \times A$ has $9$ elements. Two of the
     elements of the Cartesian product are $(2, 0)$ and $(0, 8)$. Find
     the sum of all the elements in set $A$.\
-    \[ans: 10\]
+    [ans: 10]
 
 2.  In a survey among $250$ students in Nilgiri house of IITM BSc
     degree, the following data were found:
@@ -3525,7 +3463,7 @@
     Assuming that all students have at least one OTT subscription,
     determine how many students have memberships to all $3$ OTT:
     Hotstar, Netflix and Amazon Prime?\
-    \[ans: 20\]
+    [ans: 20]
 
 3.  Suppose $A = \{a, b, c, d\}$ and $B = \{p, q, r, s\}$ are two sets.
     Consider the following relations from $A$ to $B$: $$\begin{aligned}
@@ -3543,7 +3481,7 @@
 
     4.  $R_4$ is a bijective function.
 
-    \[ans: (b), (d)\]
+    [ans: (b), (d)]
 
 4.  You have been closely monitoring your bike's mileage recently. Here
     is a table showing two rows representing the amount paid for fuel
@@ -3555,7 +3493,7 @@
     w.r.t the best fit line? $$\begin{array}{c|ccccc}
     \text{Amount paid (in \$)} & 80 & 50 & 60 & 100 & 48 \\
     \text{Distance (in Km)} & 20 & 15 & 16 & 25 & 14 \\
-    \end{array}$$ \[ans: 26\]
+    \end{array}$$ [ans: 26]
 
 5.  Assume that a ball was thrown from the point $(0,4)$ on the
     $XY$-plane as shown in the Figure 1. The ball reaches a maximum
@@ -3563,15 +3501,15 @@
     seconds. Let $h(t) = at^2 + bt + c$ be the quadratic function that
     represents the height (in meters) of the ball after $t$ seconds,
     where $a, b, c \in \mathbb{Z} \setminus \{0\}$.\
-    ![image](./Jan2Q11.png){width="50%"}
+    ![image](./Jan2Q11.png){: style="width:50%"}
 
     Find the value of $a + b + c$.\
-    \[ans: 6\]
+    [ans: 6]
 
 6.  Which of the following functions may represent the graph given in
     Figure 2?
 
-    ![image](./Jan23Q12.png){width="50%"}
+    ![image](./Jan23Q12.png){: style="width:50%"}
 
     1.  $f(x) = x^2 - 8x + 12$
 
@@ -3581,7 +3519,7 @@
 
     4.  $f(x) = x^2 - 6x + 4$
 
-    \[ans: (a),(d)\]
+    [ans: (a),(d)]
 
 7.  Ankit is located at $(3, 3)$. He called Ajay to ask his location.
     Ajay describes the path he had taken from home (located at the
@@ -3599,7 +3537,7 @@
 
     4.  Ajay has walked a distance of $9\sqrt{10}$ units from his home.
 
-    \[ans: (a), (b), (c)\]
+    [ans: (a), (b), (c)]
 
 8.  Rubika launches her new company in the year 2010, which makes a
     yearly profit in lakhs as the polynomial function
@@ -3619,12 +3557,12 @@
 
     4.  In the year 2022 (i.e., $x = 12$) the company made profit.
 
-    \[ans: (a), (c), (d)\]
+    [ans: (a), (c), (d)]
 
 9.  Figure 2 shows the graph of a polynomial $p(x)$. Choose the set of
     correct option(s).
 
-    ![image](./Jan23Q13.png){width="50%"}
+    ![image](./Jan23Q13.png){: style="width:50%"}
 
     1.  The degree of $p(x)$ is at least $10$.
 
@@ -3635,7 +3573,7 @@
     4.  Multiplicities of zero and one of the negative roots could be
         the same.
 
-    \[ans: (a),(b),(d)\]
+    [ans: (a),(b),(d)]
 
 10. Figure 3 shows the curves represented by polynomials $f(x)$, $g(x)$,
     and $h(x)$ of degrees $4$, $4$, and $2$ respectively, on the $XY$
@@ -3643,7 +3581,7 @@
     is a negative constant, then choose the most possible expression for
     $h(x)$ and any other correct statements among the given options.
 
-    ![image](./Jan23Q14.png){width="50%"}
+    ![image](./Jan23Q14.png){: style="width:50%"}
 
     1.  $h(x) = b(x^2 + 8x - 7)$
 
@@ -3653,10 +3591,9 @@
 
     4.  $f(x) = g(x)$ at $x = 0, 2, 5, 10$
 
-    \[ans:(C), (d)\]
+    [ans:(C), (d)]
 
-# Quiz 2 Jan 23 {#quiz-2-jan-23 .unnumbered}
-
+# Quiz 2 Jan 23
 1.  Consider two functions $f(x) = x^{4\log_2 x}$ and $g(x) = \sqrt{2x}$
     in their respective domains. Let $h(x) = (f \circ g)(x)$. Use this
     information to answer the given subquestions.
@@ -3673,10 +3610,10 @@
         4.  Domain of the function $\dfrac{1}{\sqrt{g(x)}}$ is the
             interval $[0, \infty)$.
 
-        \[ans: (a), (b)\]
+        [ans: (a), (b)]
 
     2.  For what value of $x$ does the function $h(x)$ have value $64$?\
-        \[ans: 4\]
+        [ans: 4]
 
 2.  Which of the following options is/are true?
 
@@ -3688,12 +3625,12 @@
 
     4.  $\log_a b < 1$, if $a > 1$, $b > 1$ and $b > a$.
 
-    \[ans: (a), (c)\]
+    [ans: (a), (c)]
 
 3.  Which of the following is the graph of the function
     $f(x) = e^{|x|}$?
 
-    ![image](./Jan23Q21.png){width="50%"}
+    ![image](./Jan23Q21.png){: style="width:50%"}
 
     1.  Figure (a)
 
@@ -3703,10 +3640,10 @@
 
     4.  Figure (d)
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 4.  Find the number of solutions of the equation $2^{x^x} = 2x$.\
-    \[ans: 2\]
+    [ans: 2]
 
 5.  Consider the function $f(x) = e^{|x|}$. Use this information to
     answer the given subquestions.
@@ -3721,7 +3658,7 @@
 
         4.  $f(x)$ is an even function.
 
-        \[ans: (3), (4)\]
+        [ans: (3), (4)]
 
     2.  Which of the following options is/are true?
 
@@ -3733,20 +3670,20 @@
 
         4.  $\displaystyle \lim_{x \to 0} f(x) = 0$.
 
-        \[ans: (2), (3)\]
+        [ans: (2), (3)]
 
 6.  Find the limit of the following sequence.
     $$a_n = \frac{2022 + 8 \times 2023^n}{2024 + 4 \times 2023^n}$$
-    \[ans: 2\]
+    [ans: 2]
 
 7.  Find the limit of the following sequence.
-    $$a_n = \frac{8n^2 + 10n}{2n^2 + 6n - 7}$$ \[ans: 4\]
+    $$a_n = \frac{8n^2 + 10n}{2n^2 + 6n - 7}$$ [ans: 4]
 
 8.  Find the following limit.
-    $$\lim_{x \to 0} \frac{\sqrt{4 + 8x} - 2}{x}$$ \[ans: 2\]
+    $$\lim_{x \to 0} \frac{\sqrt{4 + 8x} - 2}{x}$$ [ans: 2]
 
 9.  Find the following limit.
-    $$\lim_{x \to 0^+} \frac{\sin 2x}{\sqrt{2x}}$$ \[ans: 0\]
+    $$\lim_{x \to 0^+} \frac{\sin 2x}{\sqrt{2x}}$$ [ans: 0]
 
 10. Consider the following graph of a function $f(x)$ in the interval
     $[-2, 6)$ in Figure 3, where bullet point represents the point
@@ -3754,10 +3691,10 @@
     included in the line segment. Use this information to answer the
     given subquestions.
 
-    ![image](./Jan23Q21.png){width="50%"}
+    ![image](./Jan23Q21.png){: style="width:50%"}
 
     1.  Find the value of $f(1)$.\
-        \[ans: 0\]
+        [ans: 0]
 
     2.  If $f'(3) = 1$, then which of the following is the linear
         approximation ($L_f(x)$) of the function at $x = 3$?
@@ -3770,7 +3707,7 @@
 
         4.  $L_f(x) = -x + 3$
 
-        \[ans: (a)\]
+        [ans: (a)]
 
     3.  Which of the following options is/are true?
 
@@ -3782,7 +3719,7 @@
 
         4.  Function $f(x)$ is constant in the interval $[-2, 1.5]$.
 
-        \[ans: (c), (d)\]
+        [ans: (c), (d)]
 
 11. Consider the following graph of a function $f(x)$ in the interval
     $[-2, 6)$ in Figure 3, where bullet point represents the point
@@ -3790,28 +3727,27 @@
     included in the line segment. Use this information to answer the
     given subquestions.
 
-    ![image](./Jan23Q21.png){width="50%"}
+    ![image](./Jan23Q21.png){: style="width:50%"}
 
     1.  Find the number of points where the function $f(x)$ is not
         differentiable.\
-        \[ans: 3\]
+        [ans: 3]
 
     2.  Find the number of points where the function $f(x)$ is not
         continuous.\
-        \[ans: 1\]
+        [ans: 1]
 
     3.  Find the left limit $\displaystyle \lim_{x \to 4^-} f(x)$.\
-        \[ans: 1\]
+        [ans: 1]
 
     4.  Find the right limit $\displaystyle \lim_{x \to 4^+} 10 f(x)$.\
-        \[ans: 8\]
+        [ans: 8]
 
-# End Term Jan 23 {#end-term-jan-23 .unnumbered}
-
+# End Term Jan 23
 1.  If $A = \{3, 5, 7, 9, 10\}$, $B = \{7, 9, 10, 13\}$, and
     $C = \{10, 13, 15\}$ then find the cardinality of
     $(A \cap B) \cap (B \cup C)$.\
-    \[ans: 3\]
+    [ans: 3]
 
 2.  The equation of a line passing through the intersection of lines
     $x - y + 2 = 0$ and $3x + y - 10 = 0$, and perpendicular to the line
@@ -3825,24 +3761,24 @@
 
     4.  $3x - y + 2 = 0$
 
-    \[ans: (c)\]
+    [ans: (c)]
 
 3.  If $x + a$ is one of the factors of $p(x) = 2x^2 + 2ax + 5x + 10$,
     then find the value of $a$.
 
-    \[ans: 2\]
+    [ans: 2]
 
 4.  Consider a polynomial $p(x) = 4x^3 + 9x^2 + 3x + 2$. If
     $p(x) = (x+2)(a x^2 + b x + c)$, then find the value of
     $a + b + c$.\
-    \[ans: 6\]
+    [ans: 6]
 
 5.  Consider a quadratic function $f(x) := ax^2 + bx + c$ which is
     symmetric about the line $x = -3$. The maximum value of $f$ is $12$
     and it passes through the point $(0, 0)$. What is the value of
     $3a + b + c$?
 
-    \[ans: -12\]
+    [ans: -12]
 
 6.  Consider a function $f : \mathbb{R} \to \mathbb{R}$ defined as
     $$f(x) =
@@ -3859,7 +3795,7 @@
 
     4.  $\mathbb{Q}$
 
-    \[ans: (d)\]
+    [ans: (d)]
 
 7.  The function $f : \mathbb{R} \to \mathbb{R}$ given by
     $f(x) = \sin x$ is
@@ -3872,17 +3808,17 @@
 
     4.  none of these.
 
-    \[ans: (d)\]
+    [ans: (d)]
 
 8.  Find the number of solutions of the equation
     $\log_4 x + \log_4(x-3) = 1$.\
-    \[ans: 1\]
+    [ans: 1]
 
 9.  If $(a, b) \subset \mathbb{R}$ denotes the largest interval which
     can be a domain for the function
     $$f(x) = \log_2\left(1 - \log_2(x^2 - 5x + 8)\right),$$ then find
     the value of $a+b$.\
-    \[ans: 5\]
+    [ans: 5]
 
 10. There exists a sequence $\{x_n\}$ which is not increasing but
     $\{x_n\}$ has an increasing subsequence.
@@ -3891,7 +3827,7 @@
 
     2.  False
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 11. The sequence $(1, 2, 3, 4, 5, 6, \ldots)$, that is, $a_n = n$ has a
     convergent subsequence.
@@ -3900,17 +3836,17 @@
 
     2.  False
 
-    \[ans: (b)\]
+    [ans: (b)]
 
 12. Evaluate
     $\displaystyle \lim_{x \to \frac{\pi}{2}^-} \tan(x) - \sec(x)$.
 
-    \[ans: 0\]
+    [ans: 0]
 
 13. Evaluate
     $\displaystyle \pi - \int_{0}^{\frac{\pi^2}{4}} \cos(\sqrt{x})\, dx$.
 
-    \[ans: 2\]
+    [ans: 2]
 
 14. The function $f(x) = x^3 - 12x$ has a
 
@@ -3922,7 +3858,7 @@
 
     4.  local minimum at $x = 2$.
 
-    \[ans: (a), (d)\]
+    [ans: (a), (d)]
 
 15. Consider a function defined as, $$f(x) =
     \begin{cases}
@@ -3930,49 +3866,49 @@
     m \sin(x) + n \cos(x) & x > 0
     \end{cases}$$ If $f$ is differentiable at $x=0$, then the value of
     $m+n$ is\
-    \[ans: 6\]
+    [ans: 6]
 
 16. Let $f$ be a differentiable function at $x=2$. The tangent line to
     the curve represented by the function $f$ at the point $(2, 6)$
     passes through the point $(6, -18)$. What will be the value of
     $f'(2)$?\
-    \[ans: -6\]
+    [ans: -6]
 
 17. What is the minimum number of colours required to colour the graph
     given below?
-    $$\includegraphics[width=0.5\linewidth]{Jan23final1.png}$$ \[ans:
-    3\]
+    $$\includegraphics[width=0.5\linewidth]{Jan23final1.png}$$ [ans:
+    3]
 
 18. What is the weight of a minimum cost spanning tree of the given
     graph? $$\includegraphics[width=0.5\linewidth]{Jan23final2.png}$$
-    \[ans: 23\]
+    [ans: 23]
 
 19. How many edges are there in a graph with 10 vertices each of degree
     6?
 
-    \[ans: 30\]
+    [ans: 30]
 
 20. Suppose we perform BFS so that when we visit a vertex, we explore
     its unvisited neighbors in a random order. Which of the following
     graphs could represent the edges explored by BFS starting at vertex
     $E$?
 
-    1.  ![image](./Jan23final3.png){width="50%"}
+    1.  ![image](./Jan23final3.png){: style="width:50%"}
 
-    2.  ![image](./Jan23final4.png){width="50%"}
+    2.  ![image](./Jan23final4.png){: style="width:50%"}
 
-    3.  ![image](./jan23final5.png){width="50%"}
+    3.  ![image](./jan23final5.png){: style="width:50%"}
 
-    4.  ![image](./jan23final6.png){width="50%"}
+    4.  ![image](./jan23final6.png){: style="width:50%"}
 
-    5.  ![image](./Jan23final7.png){width="50%"}
+    5.  ![image](./Jan23final7.png){: style="width:50%"}
 
-    \[ans: (d)\]
+    [ans: (d)]
 
 21. Which of the following are valid topological orderings of the given
     DAG?
 
-    ![image](./Jan23final8.png){width="50%"}
+    ![image](./Jan23final8.png){: style="width:50%"}
 
     1.  E, F, C, B, G, A, H, D
 
@@ -3982,10 +3918,9 @@
 
     4.  E, F, C, B, G, H, D, A
 
-    \[ans: (c), (d)\]
+    [ans: (c), (d)]
 
-# Quiz 1 Sep 22 {#quiz-1-sep-22 .unnumbered}
-
+# Quiz 1 Sep 22
 1.  Consider a relation $R \subseteq A \times A$, where
     $A = \{1, 2, 3\}$. Given below is Table 1, in which Column A shows
     the relation and Column B shows the type of relation.
@@ -4005,19 +3940,19 @@
 
     3.  State 'True' or 'False': $R_6$ does not match with any type of
         relations given in Column B.\
-        \[ans: TRUE\]
+        [ans: TRUE]
 
     4.  State 'True' or 'False': $R_1$ matches with all type of
         relations except anti-symmetric relation given in Column B.\
-        \[ans: FALSE\]
+        [ans: FALSE]
 
     5.  In total, how many relations given in Column A matches with
         transitive relation?\
-        \[ans: 5\]
+        [ans: 5]
 
     6.  In total, how many relations given in Column A matches with
         reflexive relation?\
-        \[ans: 2\]
+        [ans: 2]
 
 2.  Consider the following relations defined on the set of integers:
     $$\begin{aligned}
@@ -4033,7 +3968,7 @@
 
     4.  $R_2$ represents a function.
 
-    \[ans: (b), (C)\]
+    [ans: (b), (C)]
 
 3.  Let $A$ be the set of all points on the curve defined by
     $f_1(x) = -x^2 + x + 30$ and let $B$ be the set of all points on the
@@ -4042,7 +3977,7 @@
     $y$ axes), then find the cardinality of the set $D$ where
     $D = (A \cap B) \cup (A \cap C) \cup (B \cap C)$.
 
-    \[ans: 4\]
+    [ans: 4]
 
 4.  You are climbing a ladder which is slanted at an angle of 45 degrees
     (measured in the anticlockwise direction) with respect to the
@@ -4060,7 +3995,7 @@
 
     4.  $(1/3, 2/3)$
 
-    \[ans: (c)\]
+    [ans: (c)]
 
 5.  Sushmita was calculating SSE (sum squared error) and she found that
     SSE is a function of $a$ as follows:
@@ -4075,7 +4010,7 @@
 
     4.  $-2$
 
-    \[ans: (a)\]
+    [ans: (a)]
 
 6.  Consider two quadratic functions, $p(x)$ and $q(x)$, whose
     $x$-intercepts are shown in Figure 1. The leading coefficients of
@@ -4084,15 +4019,15 @@
     of the zeroes of $p(x)$. The line $y = d$ passes through the
     vertices of $p(x)$ and $q(x)$.
 
-    ![image](./sp22q11.png){width="50%"}
+    ![image](./sp22q11.png){: style="width:50%"}
 
     1.  Enter the value of $a$.
 
-        \[ans: -9\]
+        [ans: -9]
 
     2.  Enter the value of $b + c + d$.
 
-        \[ans: -30\]
+        [ans: -30]
 
     3.  Choose the set of correct option(s):
 
@@ -4106,7 +4041,7 @@
         4.  The discriminant of both the quadratic equations $p(x) = 0$
             and $q(x) = 0$ are same.
 
-        \[ans: (a), (c), (d)\]
+        [ans: (a), (c), (d)]
 
 7.  Ritwik wrote 12 mock tests. His score in each mock test $M(n)$ is
     represented as
@@ -4118,15 +4053,15 @@
     Based on this information, answer the given sub-questions:
 
     1.  How many times did Ritwik score exactly $40$?\
-        \[ans: 2\]
+        [ans: 2]
 
     2.  In total, how many mock tests did Ritwik pass?\
-        \[ans: 6\]
+        [ans: 6]
 
 8.  Figure 2 shows the graph of a polynomial $p(x)$. Choose the set of
     correct option(s).
 
-    ![image](./sp22q12.png){width="50%"}
+    ![image](./sp22q12.png){: style="width:50%"}
 
     1.  The degree of $p(x)$ is at least $9$.
 
@@ -4137,7 +4072,7 @@
     4.  Multiplicities of zero and one of the negative root could be the
         same.
 
-    \[ans: (a), (b), (d)\]
+    [ans: (a), (b), (d)]
 
 9.  The polynomial $p(x) = a_n x^n + a_{n-1} x^{n-1} + \ldots + a_0$ has
     the following properties:
@@ -4154,13 +4089,13 @@
     From the options given, choose the possible representations of
     $p(x)$.
 
-    1.  ![image](./sp22q11.png){width="50%"}
+    1.  ![image](./sp22q11.png){: style="width:50%"}
 
-    2.  ![image](./sp22q12.png){width="50%"}
+    2.  ![image](./sp22q12.png){: style="width:50%"}
 
-    3.  ![image](./sp22q13.png){width="50%"}
+    3.  ![image](./sp22q13.png){: style="width:50%"}
 
-    \[ans:(a),(b),(C)\]
+    [ans:(a),(b),(C)]
 
 10. Which of the following statements is (are) correct?
 
@@ -4176,10 +4111,9 @@
     4.  $2x + 7y + 9 = 0$ and $6x + 21y + 9 = 0$ are parallel to each
         other.
 
-    \[ans: (a), (b), (d)\]
+    [ans: (a), (b), (d)]
 
-# Quiz 2 Sep 22 {#quiz-2-sep-22 .unnumbered}
-
+# Quiz 2 Sep 22
 1.  Choose the set of correct options.
 
     1.  The function $f : \mathbb{R} \to \mathbb{R}$ such that
@@ -4192,29 +4126,29 @@
     4.  If $f$ is an invertible decreasing function, then $f^{-1}$ is
         also a decreasing function.
 
-    \[ans: (a), (d)\]
+    [ans: (a), (d)]
 
 2.  Let $f$ be a function whose domain is $[-5, 7]$. If
     $g(x) = |2x + 5|$ and $[a, b] \subset \mathbb{R}$ denotes the
     largest interval which can be a domain for the composition function
     $(f \circ g)(x)$, then the value of $a + b$ is
 
-    \[ans: -5\]
+    [ans: -5]
 
 3.  Consider two functions $f(x) = \log_2(\log_3 x)$ and
     $g(x) = -x^2 + 4x + 77$. Let $h(x) = (f \circ g)(x)$.\
     Find the maximum value of $h(x)$.\
-    \[ans: 2\]
+    [ans: 2]
 
 4.  Find the maximum value of $g(x)$, where $g(x) = -x^2 + 4x + 77$.\
-    \[ans: 81\]
+    [ans: 81]
 
 5.  Find the number of solutions of the equation $e^{2x} - 2e^x = 15$.\
-    \[ans: 1\]
+    [ans: 1]
 
 6.  Find the value of $x$ that satisfies the equation
     $\log_4(x-1) - \log_2(x-3) = 0$.\
-    \[ans: 5\]
+    [ans: 5]
 
 7.  Consider a function $f$ defined as, $$f(x) = 
     \begin{cases}
@@ -4230,7 +4164,7 @@
 
     4.  $f$ is continuous at $x = 7$.
 
-    \[ans: (2), (4)\]
+    [ans: (2), (4)]
 
 8.  Consider a sequence $(1, 2, 3, 4, 5, 6, \ldots)$, that is, $a_n = n$
     for all $n \in \mathbb{N}$. Which of the following sequences are
@@ -4248,31 +4182,31 @@
     4.  $(1, 8, 27, 64, \ldots)$, that is, $b_n = n^3$ for all
         $n \in \mathbb{N}$.
 
-    \[ans: (2), (4)\]
+    [ans: (2), (4)]
 
 9.  $\displaystyle \lim_{x \to 0} \frac{\sin^5(x)}{\sin(x^5)}$\
-    \[ans: 1\]
+    [ans: 1]
 
 10. Evaluate
     $\displaystyle \lim_{x \to 0} \frac{x + \tan(x)}{\sin(x)}$.\
-    \[ans: 2\]
+    [ans: 2]
 
 11. Let $\{a_n\}$ be a sequence such that
     $a_n = \dfrac{4n - 1}{3n^2 + 9}$. Find
     $\displaystyle \lim_{n \to \infty} a_n$.\
-    \[ans: 0\]
+    [ans: 0]
 
 12. Let $\{a_n\}$ be a sequence such that $$a_n =
     \begin{cases}
     10n + 1 + \sin(n) & \text{if $n$ is odd} \\
     \dfrac{n}{10n - 1 + \cos(n)} & \text{if $n$ is even}
     \end{cases}$$ Find $\displaystyle \lim_{n \to \infty} a_n$.\
-    \[ans: 10\]
+    [ans: 10]
 
 13. If $f(x) = g(x^2 + 5x) \times h(x^3 + x)$, $g'(0) = g(0) \neq 0$,
     and $h'(0) = h(0) \neq 0$, then find the value of
     $\dfrac{f'(0)}{f(0)}$.\
-    \[ans: 6\]
+    [ans: 6]
 
 14. Consider a function defined as, $$f(x) = 
     \begin{cases}
@@ -4281,16 +4215,15 @@
     x + n & x > 1
     \end{cases}$$ If $f$ is continuous at $x = 1$, then the value of
     $m + n$ is\
-    \[ans: 4\]
+    [ans: 4]
 
 15. Let $f$ be a differentiable function at $x=2$. The tangent line to
     the curve represented by the function $f$ at the point $(2,6)$
     passes through the point $(4, -14)$. What will be the value of
     $f'(2)$?\
-    \[ans: -10\]
+    [ans: -10]
 
-# End Term Sep 22 {#end-term-sep-22 .unnumbered}
-
+# End Term Sep 22
 1.  Two families have decided to enter into an alliance by marriage. The
     first family has 4 sons $(S_1, S_2, S_3, S_4)$ and the second family
     has 4 daughters $(D_1, D_2, D_3, D_4)$. To avoid impropriety, the
@@ -4298,10 +4231,10 @@
     age, or someone one position younger or older. The graph
     representing these agreeable marriages is given below.
 
-    ![image](./jan22final1.png){width="50%"}
+    ![image](./jan22final1.png){: style="width:50%"}
 
     How many different acceptable marriage arrangements are possible?\
-    \[ans: 5\]
+    [ans: 5]
 
 2.  A company has branches in each of the six cities
     $C_1, C_2, \ldots, C_6$. The direct flight fares are as follows:\
@@ -4312,7 +4245,7 @@
     $(C_1, C_6, 2000)$, $(C_6, C_1, 2000)$.\
     An employee wants to travel from $C_2$ to $C_5$, travelling by the
     cheapest route possible. Find the total fare that he should pay.\
-    \[ans: 7000\]
+    [ans: 7000]
 
 3.  Let $A$ be the set of prime numbers less than or equal to $11$.
     Consider another set $B$ which is defined as
@@ -4328,13 +4261,13 @@
     4.  $R = \{(2,5),\ (5,7),\ (7,5),\ (11,13)\}$ is a relation from $A$
         to $B$.
 
-    \[ans: (b), (d)\]
+    [ans: (b), (d)]
 
 4.  Consider the universal set $U$ to be the set of all natural numbers
     less than or equal to $13$ including zero. Find the cardinality of
     the set $A \cap B^c$.
 
-    \[ans: 7\]
+    [ans: 7]
 
 5.  The polynomial $p(x) = a_n x^n + a_{n-1} x^{n-1} + \ldots + a_0$ has
     the following properties:
@@ -4350,15 +4283,15 @@
 
     Choose the best possible representations of $p(x)$.
 
-    1.  ![image](./sp22final1.png){width="50%"}
+    1.  ![image](./sp22final1.png){: style="width:50%"}
 
-    2.  ![image](./sp22final2.png){width="50%"}
+    2.  ![image](./sp22final2.png){: style="width:50%"}
 
-    3.  ![image](./sp22final3.png){width="50%"}
+    3.  ![image](./sp22final3.png){: style="width:50%"}
 
-    4.  ![image](./sp22final4.png){width="50%"}
+    4.  ![image](./sp22final4.png){: style="width:50%"}
 
-    \[ans: (C)\]
+    [ans: (C)]
 
 6.  Two types of bacteria (type $A$ and type $B$) are present in a glass
     of water. Suppose $f_A(t) = 2^{(t+1)^2 - 36}$ and
@@ -4367,14 +4300,14 @@
     respectively. At what time is the number of type $A$ bacteria equal
     to the number of type $B$ bacteria?
 
-    \[ans: 5\]
+    [ans: 5]
 
 7.  Suppose the $n$th term of a sequence $\{a_n\}$ is
     $\dfrac{2n^2 + 3n - \cos(n)}{2 - n^2}$. Let $\{b_n\}$ be another
     sequence defined as $b_n = a_n^2 + 2a_n - 5$. Find the limit of the
     sequence $\{a_n b_n\}$.
 
-    \[ans: 10\]
+    [ans: 10]
 
 8.  Consider a function $f(x)$ defined as $f(x) = |x(x-4)|$ in the
     domain $[-4,5]$. Which of the following statements are correct?
@@ -4390,7 +4323,7 @@
     5.  The number of points where $f(x)$ attains its local maximum
         value is $3$.
 
-    \[ans: (a), (c), (e)\]
+    [ans: (a), (c), (e)]
 
 9.  Assume that a ball was thrown from the point $(0,3)$ on the
     $XY$-plane as shown in Figure 1. The ball reaches a maximum height
@@ -4400,9 +4333,9 @@
     where $a, b, c \in \mathbb{Z} \setminus \{0\}$. Find the value of
     $a-b+c$
 
-    ![image](./sp22final1.png){width="50%"}
+    ![image](./sp22final1.png){: style="width:50%"}
 
-    \[ans: -3\]
+    [ans: -3]
 
 10. Edwin plotted a graph on Desmos (an online graphing tool), which was
     continuous and differentiable at every point. Later he remembered
@@ -4426,26 +4359,26 @@
 
     4.  $m = 2,\, p = 3$
 
-    \[ans: (b), (d)\]
+    [ans: (b), (d)]
 
 11. Consider the function $f(x) = x - \dfrac{4}{x}$ on the interval
     $[2,8]$. Approximate the value of $\int_{2}^{8} 6 f(x)\, dx$ using
     the right hand Riemann sum by taking 3 sub-intervals of equal
     length.
 
-    \[ans: 190\]
+    [ans: 190]
 
 12. Find the value of the given definite integral.
     $$\int_{1}^{\infty} \frac{2\ln(x)}{x^2}\, dx$$
 
-    \[ans: 2\]
+    [ans: 2]
 
 13. Let $G$ be a simple graph with the vertex set $\{1,2,3,4,5,6\}$.
     Suppose two distinct vertices, say $i$ and $j$, of $G$ are adjacent
     if and only if $\max\{|i-j|,2\} = 2$. Find the number of edges in
     the graph $G$.
 
-    \[ans: 9\]
+    [ans: 9]
 
 14. Suppose $G$ is a graph with 6 vertices $0,1,2,3,4,5$ and the
     adjacency matrix $$\begin{bmatrix}
@@ -4467,7 +4400,7 @@
     4.  The longest path in the graph $G$ has length $5$, in terms of
         number of edges.
 
-    \[ans: (b)\]
+    [ans: (b)]
 
 15. Suppose Nitya wishes to find the minimum cost spanning tree of the
     graph given below. While finding the minimum cost spanning tree she
@@ -4476,7 +4409,7 @@
     the graph. Which of the following are possible values for $x$ and
     $y$?
 
-    ![image](./sp22final1.png){width="50%"}
+    ![image](./sp22final1.png){: style="width:50%"}
 
     1.  $x = 4,\, y = 2$
 
@@ -4486,14 +4419,11 @@
 
     4.  $x = 1,\, y = 6$
 
-    \[ans: (b), (d)\]
+    [ans: (b), (d)]
 
-# Quiz 1 May 21 {#quiz-1-may-21 .unnumbered}
-
-# Quiz 2 May 21 {#quiz-2-may-21 .unnumbered}
-
-# End Term May 21 {#end-term-may-21 .unnumbered}
-
+# Quiz 1 May 21
+# Quiz 2 May 21
+# End Term May 21
 1.  The Ministry of Petroleum and Natural Gas estimated that $P_{0}$ is
     the number of gallons of the crude petroleum available in the
     year 2020. Consider $t=3$ as end of year 2020 and $t=4$ as the end
@@ -4512,7 +4442,7 @@
 
     4.  $k=2, h=4$
 
-    \[ans: (a), (d)\]
+    [ans: (a), (d)]
 
 2.  Suppose $f(x)=\ln|x|$ is a function defined on the interval
     $(-\infty,0)\cup(0,\infty)$. For what integers values of $k$, where
@@ -4527,7 +4457,7 @@
 
     4.  $4$
 
-    \[Ans: (a), (c)\]
+    [Ans: (a), (c)]
 
 3.  Consider the directed graph given below. Suppose we perform BFS/DFS
     so that when we visit a vertex, we explore its unvisited neighbours
