@@ -24,6 +24,16 @@ nav:
   - Mathematics for Data Science I:
       - Overview: courses/maths-ds-1/index.md
       - Week 1: courses/maths-ds-1/notes/week-1.md
+      - Week 2: courses/maths-ds-1/notes/week-2.md
+      - Week 3: courses/maths-ds-1/notes/week-3.md
+      - Week 4: courses/maths-ds-1/notes/week-4.md
+      - Week 5: courses/maths-ds-1/notes/week-5.md
+      - Week 6: courses/maths-ds-1/notes/week-6.md
+      - Week 7: courses/maths-ds-1/notes/week-7.md
+      - Week 8: courses/maths-ds-1/notes/week-8.md
+      - Week 9: courses/maths-ds-1/notes/week-9.md
+      - Week 10: courses/maths-ds-1/notes/week-10.md
+      - Week 11: courses/maths-ds-1/notes/week-11.md
       - PYQS: courses/maths-ds-1/pyqs/main.md
       - Combined AQ+PA: courses/maths-ds-1/pyqs/combined.md
   - Algorithmic Thinking in Bioinformatics:
